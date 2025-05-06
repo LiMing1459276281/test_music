@@ -1,20 +1,49 @@
 "use client"
-import { useEffect, useState } from "react"
+import { useEffect, useState,useRef } from "react"
 import { ScrollButton } from "@/components/customUI/scroll-button"
 import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
-import { Music, Disc, Headphones } from "lucide-react"
 import { Card } from "@/components/ui/card"
-
+import { Music, Disc, Headphones, Play, Pause } from "lucide-react"
+import SplashCursor from '@/components/reactrbits/SplashCursor'
 export default function Hero({ dictionary }: { dictionary: any }) {
   const [isClient, setIsClient] = useState(false)
+  // 添加音频相关状态
+  const [isPlaying, setIsPlaying] = useState(false)
+  const [currentTime, setCurrentTime] = useState(0)
+  const audioRef = useRef<HTMLAudioElement | null>(null)
+  // 在组件顶部添加状态
+    const [waveHeights, setWaveHeights] = useState<number[]>(
+    Array.from({ length: 32 }, () => Math.random() * 60 + 20)
+  );
+  
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setWaveHeights(Array.from({ length: 32 }, () => Math.random() * 60 + 20));
+    }, 800);
+    
+    return () => clearInterval(interval);
+  }, []);
+  const [demoTrack] = useState({
+    audioUrl: "https://kieaifiles.erweima.ai/M2FhZDZlOGMtNTAyOC00YjJiLTk0YTMtNDlhMzhjZTE3MGE0.mp3",
+    duration: 134.16,
+    title: "Deep Focus Beat"
+  })
+
+  // 格式化时间
+  const formatTime = (time: number) => {
+    const minutes = Math.floor(time / 60)
+    const seconds = Math.floor(time % 60)
+    return `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`
+  }
 
   useEffect(() => {
     setIsClient(true)
   }, [])
 
   return (
-    <section className="relative px-4 py-16 md:py-24 lg:py-32 overflow-hidden">
+    <section className="relative px-1 py-16 md:py-24 lg:py-32 mb-10 overflow-hidden">
+      {/* <SplashCursor /> */}
       {/* Enhanced background elements with more dramatic effects */}
       <div className="absolute inset-0">
         {/* Enhanced dynamic light effects with more dramatic colors */}
@@ -26,36 +55,36 @@ export default function Hero({ dictionary }: { dictionary: any }) {
         {/* Subtle grid background with reduced opacity */}
         <div className="absolute inset-0 bg-grid-white/[0.03]" />
         {/* Gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-background/5 via-background/80 to-background" />
+        <div className="absolute container mx-auto inset-0 bg-gradient-to-b from-gray-800 backdrop-blur-md rounded-lg" />
       </div>
 
       {/* Main content with improved spacing */}
-      <div className="relative z-10 max-w-6xl mx-auto flex flex-col lg:flex-row items-center justify-between gap-16">
+      <div className="relative z-10 max-w-[90rem] mx-auto flex flex-col lg:flex-row items-center justify-between gap-16">
         {/* Left side content with enhanced typography and animations */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: "easeOut" }}
-          className="lg:w-1/2 text-left space-y-7"
+          className="lg:w-1/2 text-left space-y-8 px-4 lg:px-8"
         >
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600 leading-tight">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-500 to-purple-600 leading-tight tracking-tight">
             {dictionary.title || "AI Music Generator"}
           </h1>
 
-          <h2 className="text-xl md:text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">
+          <h2 className="text-2xl md:text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500 tracking-wide">
             {dictionary.subtitle || "Create custom music with AI"}
           </h2>
 
-          <p className="text-gray-200 dark:text-gray-300 text-lg max-w-xl leading-relaxed">
+          <p className="text-gray-200 dark:text-gray-300 text-xl max-w-2xl leading-relaxed">
             {dictionary.description ||
               "Generate unique music tracks in seconds with our advanced AI. Choose your style, set the mood, and let our AI create the perfect soundtrack for your projects."}
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-5 pt-8">
+          <div className="flex flex-col sm:flex-row gap-6 pt-10">
             <ScrollButton
               targetId="create-form"
               variant="default"
-              className="px-8 py-3 bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white rounded-lg transition-all duration-300 shadow-lg hover:shadow-purple-500/25 flex items-center justify-center gap-2 text-lg font-medium"
+              className="px-8 py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white rounded-sm transition-all duration-300 shadow-xl hover:shadow-indigo-500/50 flex items-center justify-center gap-2 text-lg font-medium transform hover:scale-105"
             >
               {dictionary.buttons?.create || "Create Music"}
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -71,7 +100,7 @@ export default function Hero({ dictionary }: { dictionary: any }) {
             <ScrollButton
               targetId="steps-section"
               variant="outline"
-              className="px-8 py-3 border border-purple-500 text-purple-400 hover:bg-purple-500/10 rounded-lg transition-all duration-300 text-lg font-medium"
+              className="px-8 py-3.5 border-2 border-indigo-500 text-indigo-400 hover:bg-indigo-500/10 rounded-sm transition-all duration-300 text-lg font-medium transform hover:scale-105"
             >
               {dictionary.buttons?.tutorial || "How It Works"}
             </ScrollButton>
@@ -101,21 +130,21 @@ export default function Hero({ dictionary }: { dictionary: any }) {
                 </div>
               </div>
               
+       
+              
               {/* Sound wave visualization */}
               <div className="flex items-end justify-between h-32 gap-1 my-8">
-                {Array.from({ length: 32 }).map((_, i) => (
+                {waveHeights.map((height, i) => (
                   <motion.div
                     key={i}
-                    className="w-1.5 bg-gradient-to-t from-music-primary to-music-secondary rounded-full"
+                    className="w-1.5 bg-gradient-to-t from-indigo-500 via-purple-500 to-pink-500 rounded-full"
                     initial={{ height: '20%' }}
                     animate={{ 
-                      height: `${Math.random() * 60 + 20}%` 
+                      height: `${height}%` 
                     }}
                     transition={{
                       duration: 0.8,
-                      repeat: Infinity,
-                      repeatType: "reverse",
-                      delay: i * 0.03,
+                      ease: "easeInOut",
                     }}
                   ></motion.div>
                 ))}
@@ -123,41 +152,59 @@ export default function Hero({ dictionary }: { dictionary: any }) {
               
               <div className="space-y-4">
                 <div className="flex justify-between text-white/90">
-                  <span>Deep Focus Beat</span>
-                  <span>3:24</span>
+                  <span>{demoTrack.title}</span>
+                  <span>{formatTime(currentTime)} / {formatTime(demoTrack.duration)}</span>
                 </div>
+
+                <audio
+                  ref={audioRef}
+                  src={demoTrack.audioUrl}
+                  onTimeUpdate={() => {
+                    if (audioRef.current) {
+                      setCurrentTime(audioRef.current.currentTime)
+                    }
+                  }}
+                  onEnded={() => setIsPlaying(false)}
+                />
                 
                 <div className="h-1.5 w-full bg-white/20 rounded-full overflow-hidden">
                   <motion.div 
                     className="h-full bg-gradient-to-r from-music-primary to-music-accent rounded-full"
-                    initial={{ width: "0%" }}
-                    animate={{ width: "75%" }}
-                    transition={{ duration: 15, repeat: Infinity, repeatType: "reverse" }}
-                  ></motion.div>
+                    animate={{ 
+                      width: `${(currentTime / demoTrack.duration) * 100}%` 
+                    }}
+                    transition={{
+                      duration: 0.1,
+                      ease: "linear"
+                    }}
+                  />
                 </div>
                 
-                <div className="flex justify-between pt-4">
-                  <Button variant="outline" className="bg-white/10 text-white border-0 hover:bg-white/20">
-                    <svg className="w-5 h-5 mr-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <polygon points="19 20 9 12 19 4 19 20"></polygon>
-                      <line x1="5" y1="19" x2="5" y2="5"></line>
-                    </svg>
-                    Previous
-                  </Button>
-                  
-                  <Button className="bg-music-primary hover:bg-music-primary/90 text-white">
-                    Play
-                    <svg className="w-5 h-5 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                    </svg>
-                  </Button>
-                  
-                  <Button variant="outline" className="bg-white/10 text-white border-0 hover:bg-white/20">
-                    Next
-                    <svg className="w-5 h-5 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                      <polygon points="5 4 15 12 5 20 5 4"></polygon>
-                      <line x1="19" y1="5" x2="19" y2="19"></line>
-                    </svg>
+                <div className="flex justify-center pt-4">
+                  <Button 
+                    className="bg-music-primary bg-white/10 hover:bg-music-primary/90 text-white flex items-center gap-2"
+                    onClick={() => {
+                      if (audioRef.current) {
+                        if (isPlaying) {
+                          audioRef.current.pause()
+                        } else {
+                          audioRef.current.play()
+                        }
+                        setIsPlaying(!isPlaying)
+                      }
+                    }}
+                  >
+                    {isPlaying ? (
+                      <>
+                        <Pause className="w-5 h-5" />
+                        Pause
+                      </>
+                    ) : (
+                      <>
+                        <Play className="w-5 h-5" />
+                        Play
+                      </>
+                    )}
                   </Button>
                 </div>
               </div>
@@ -165,6 +212,35 @@ export default function Hero({ dictionary }: { dictionary: any }) {
           </Card>
         </motion.div>
       </div>
+
+        {/* Floating decorative elements */}
+        <motion.div 
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1, y: [0, -20, 0] }}
+        transition={{
+          opacity: { duration: 1, delay: 1.2 },
+          y: { duration: 3, repeat: Infinity, ease: "easeInOut" }
+        }}
+        className="absolute bottom-10 left-10 hidden lg:block z-0"
+      >
+        <div className="">
+          <Music className="w-16 h-16 rotate-[-15deg] text-purple-500" />
+        </div>
+      </motion.div>
+
+      <motion.div 
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1, y: [0, 20, 0] }}
+        transition={{
+          opacity: { duration: 1, delay: 1.6 },
+          y: { duration: 3, repeat: Infinity, ease: "easeInOut" }
+        }}
+        className="absolute top-20 right-10 hidden lg:block z-0"
+      >
+        <div className=" ">
+          <Headphones className="w-20 h-20 rotate-12 text-pink-500" />
+        </div>
+      </motion.div>
     </section>
   )
 }
