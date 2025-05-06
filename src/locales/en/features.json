@@ -1,0 +1,30 @@
+{
+  "title": "Powerful Features",
+  "description": "Explore the powerful features of our AI Music Generator",
+  "features": [
+    {
+      "title": "Custom Music Creation",
+      "description": "Transform your prompts into unique musical pieces, supporting various styles and emotional expressions."
+    },
+    {
+      "title": "Diverse Style Selection",
+      "description": "Choose from styles like Pop, Rock, Classical, and Electronic to suit your needs."
+    },
+    {
+      "title": "Instant Generation",
+      "description": "Generate high-quality music in seconds using our high-performance AI models."
+    },
+    {
+      "title": "High-Quality Audio Export",
+      "description": "Download your music in high-quality formats for easy sharing and use."
+    },
+    {
+      "title": "Artistic Style Variations",
+      "description": "Explore different music styles and variations, from classic to modern."
+    },
+    {
+      "title": "Cloud Storage",
+      "description": "Save your favorite music pieces to your personal cloud for access anytime, anywhere."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Créez votre musique en 3 étapes simples",
+  "subtitle": "Notre IA rend la création musicale incroyablement facile",
+  "steps": {
+    "upload": {
+      "title": "Téléchargez l'audio ou choisissez un style",
+      "description": "Sélectionnez un fichier audio ou choisissez un style dans notre bibliothèque."
+    },
+    "style": {
+      "title": "Choisissez le style musical",
+      "description": "Choisissez parmi divers styles comme Pop, Classique, Électronique, ou laissez l'IA vous recommander !"
+    },
+    "generate": {
+      "title": "Générez et Téléchargez",
+      "description": "Notre IA se met au travail ! Votre morceau de musique unique sera prêt en un rien de temps."
+    }
+  }
+}

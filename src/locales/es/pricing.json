@@ -1,0 +1,149 @@
+{
+    "title": "Precios del Generador de Figuras de Acción AI",
+    "subtitle": "Elija un plan para comprar créditos. Libere su creatividad con el Generador de Figuras de Acción AI.",
+    "pricing_description": "AI音乐生成采用积分制，每次生成需要3个积分。",
+    "ko_fi_tips1": "☕ Consejo ko-fi: ¡No olvide su nombre de usuario del Generador de Figuras de Acción AI en el mensaje de pago de ko-fi! 😉 ( ¿Olvidado? ",
+    "payment_tips1": "💳 Consejo de pago: Si encuentra algún problema durante el proceso de pago, ¡no dude en contactarnos! 😉 ( ¿Preguntas? ",
+    "ko_fi_tips2": "contáctenos",
+    "news": "¡Noticias emocionantes! ¡Compre créditos para el Generador de Figuras de Acción AI ahora y disfrute de un 50% de descuento!",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "Pago único",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants": [
+                {
+                    "creditsAmount": "70 créditos",
+                    "unitPrice": "0,07 € / crédito",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150 créditos",
+                    "unitPrice": "0,06 € / crédito",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400 créditos",
+                    "unitPrice": "0,05 € / crédito",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650 créditos",
+                    "unitPrice": "0,04 € / crédito",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "Sin recurrencia",
+            "buy_lable": "Comprar plan",
+            "description": [
+                "Número ilimitado de conversaciones",
+                "Velocidad de generación rápida",
+                "Con tecnología de modelos avanzados",
+                "Sin anuncios",
+                "Atención al cliente prioritaria"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "Suscripción mensual",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /mes",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "90 créditos",
+                    "unitPrice": "0,06 € / crédito",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200 créditos",
+                    "unitPrice": "0,05 € / crédito",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750 créditos",
+                    "unitPrice": "0,04 € / crédito",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500 créditos",
+                    "unitPrice": "0,03 € / crédito",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "Cancele en cualquier momento.",
+            "buy_lable": "Comprar plan",
+            "description": [
+                "Número ilimitado de conversaciones",
+                "Velocidad de generación rápida",
+                "Con tecnología de modelos avanzados",
+                "Sin anuncios",
+                "Atención al cliente prioritaria"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "Suscripción anual",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /mes",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "600 créditos",
+                    "unitPrice": "0,05 € / crédito",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250 créditos",
+                    "unitPrice": "0,04 € / crédito",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000 créditos",
+                    "unitPrice": "0,03 € / crédito",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000 créditos",
+                    "unitPrice": "0,02 € / crédito",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "Cancele en cualquier momento.",
+            "buy_lable": "Comprar plan",
+            "description": [
+                "Acceso API de alta prioridad",
+                "Actualizaciones y mejoras regulares",
+                "Número ilimitado de conversaciones",
+                "Velocidad de generación rápida",
+                "Con tecnología de modelos avanzados",
+                "Sin anuncios",
+                "Soporte prioritario (Respuesta en 24 horas)"
+            ]
+        }
+    ],
+    "meta": {
+        "title": "Precios - Generador de Figuras de Acción AI",
+        "description": "Información sobre nuestro sistema de facturación y respuestas a preguntas frecuentes sobre pagos, suscripciones y más."
+    }
+}

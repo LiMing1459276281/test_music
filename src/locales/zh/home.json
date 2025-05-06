@@ -1,0 +1,203 @@
+{
+    "title": "AI说图解画",
+    "subtitle": "使用人工智能说图解画！上传您的照片或艺术作品，问一问，让AI解读背后的隐藏细节、情感、含义和数据图表分析。艺术家、设计师、科研工作者或任何对此感兴趣的人，这款“说图解画”为您的工作和创作带来全新的视角和效率提升。快来试试吧！",
+    "note": "早期测试版，部分功能可能还不稳定。我们感谢您的耐心和理解。如果您在使用过程中遇到任何问题或有任何建议，请随时与我们联系。您的反馈对我们非常重要，将帮助我们改进该工具。",
+    "func_image_label": "1. 上传图片或照片（最大4MB）",
+    "func_image_label1": "1. 上传图片或照片（最大4MB）",
+    "func_model_label": "2. 模型选择",
+    "generator": {
+    "title": "AI 音乐生成器",
+    "form": {
+        "title": "音乐标题",
+        "describe": {
+            "title": "描述您的音乐",
+            "description": "描述您想要创建的音乐。请具体说明情绪、乐器、节奏等。"
+        },
+        "style": {
+            "title": "选择音乐风格",
+            "description": "选择最符合您期望输出的音乐风格"
+        },
+        "upload": {
+            "click": "点击上传",
+            "paste": "或粘贴图片",
+            "format": "PNG, JPG 或 JPEG (建议: 300 x 300px)"
+        }
+        },
+        "generation": {
+        "button": {
+            "generating": "生成中...",
+            "generate": "生成音乐"
+        },
+        "player": {
+            "title": "您生成的音乐",
+            "description": "聆听您的 AI 生成的音乐，满意后即可下载",
+            "empty": {
+            "title": "尚未生成音乐",
+            "description": "填写左侧表单并点击'生成音乐'来创建您的自定义 AI 音乐"
+            },
+            "generated": "根据您的提示生成"
+        }
+        },
+        "errors": {
+        "generation": {
+            "title": "生成失败",
+            "message": "音乐生成失败。请重试。"
+        },
+        "prompt": {
+            "empty": "请输入提示词"
+        }
+        }
+    },
+    "func_model_list": [
+        {
+            "label": "基础模型",
+            "type": "0"
+        },
+        {
+            "label": "高级模型",
+            "type": "1"
+        }
+    ],
+    "func_prompt_label": "3. 问一问（选填）",
+    "func_prompt_placeholder": "输入你想问的问题，例如：\"这个西瓜甜不甜?\"",
+    "func_text_label": "4. 生成动漫风格图片结果",
+    "func_text_placeholder": "AI生成的图片文字描述",
+    "func_submit_label": "生成文字描述",
+    "example_title": "Ai Generator Song 示例用例",
+    "example_link_label": "发现更多示例",
+    "fqa": {
+        "title": "常见问题",
+        "description": "查找有关 Ai Generator Song 的常见问题解答",
+        "list": [
+            {
+                "question": "如何生成图片的描述",
+                "answer": "从您的设备中选择一张图片或直接粘贴一张图片。您也可以选择在“问一问（可选）”文本框中输入任何问题。点击“生成文字描述”按钮，AI工具会自动分析您的图片并生成图片描述。"
+            },
+            {
+                "question": "我如何删除在探索板块中公开的图片？",
+                "answer": "您可以打开探索板块，定位到您希望删除的图片，对图片进行截屏，然后撰写一封邮件，提供图片上传时间段、截屏图片以及删除原因（可选），发送至我们的官方邮箱。我们将在24小时内审核并处理您的请求。"
+            },
+            {
+                "question": "如何根据图片生成提示词？",
+                "answer": "您可以使用我们的 [Image To Prompt] 工具直接生成 Stable Diffusion 和 Midjourney 提示词。或者，您也可以将图片上传到 [Ai Generator Song] 工具，并在 [问一问] 输入框中输入“为图片写一个 Midjourney 自然语言提示词”来获取该图片的提示词。"
+            },
+            {
+                "question": "使用Ai Generator Song时如何保护隐私？",
+                "answer": "Ai Generator Song图像描述工具重视您的隐私，未经您的明确同意，不会记录任何个人信息。只有获得您的许可，网站才会在案例库中分享您的图像和解读内容。"
+            },
+            {
+                "question": "Ai Generator Song 工具是如何实现的？",
+                "answer": "Ai Generator Song 利用大模型语言的能力，理解图像中的各种元素和它之间的关系，仔细分析图像的样色、形状、纹理等线索，找出它们背后的意义。"
+            }
+        ],
+        "fqa_note_label": "找不到你想要的答案吗？请联系我们",
+        "fqa_link_label": "联系客户"
+    },
+    "donation_label": "请给我买杯咖啡",
+    "donation_about": "如果你喜欢我的工具，请考虑小额捐助，帮助我维持网站的运营。 任何金额的支持都对我意义重大——就当是请我喝一杯咖啡吧！",
+    "public_label": "允许在AI说图解图公开展示",
+    "credits_label": "每张图片消耗 3 积分",
+    "credits_buy_tips1": "你的积分已用完。为了避免服务中断，请尽快 ",
+    "credits_buy_tips2": "升级到会员。",
+    "credits_buy_tips3": "积分已用完。请购买积分，以便继续使用我们的“说图解图”服务。",
+    "credits_buy_btn_label1": "订阅会员",
+    "credits_buy_btn_label2": "取消",
+    "subscrible_tips1": "订阅会员，获得无广告体验，使用高级模型，无限对话，提升工作效率，开启AI新时代！",
+    "usage": {
+        "usage_title": "AI赋能 重塑图像处理效率",
+        "usage_subtitle1": "旧照与艺术作品的新生",
+        "usage_description1": "儿时的旧照片和艺术作品因年代久远或风格独特而被遗忘，背后的创作背景和情感也常常被忽视。",
+        "usage_solution1": "我们的工具可以对旧照片和艺术作品进行创造性和独特风格的解读。通过深入分析图像背后的创作背景、情感以及作品背后的故事与寓意，让每一张照片焕发出新的生命力，让你重新认识它们。",
+        "usage_subtitle2": "图表智解，数据背后的内容一目了然",
+        "usage_description2": "在科研、金融、商务领域，图表数据分析是日常工作的重要部分。然而，复杂的图表内容有时难以理解，特别是当图表来源不明时。",
+        "usage_solution2": "我们的工具可以智能分析科研、金融和商务图表，帮助用户快速理解图表所表达的内容和意图。同时，还能追溯图表的来源，提供详细的背景信息和数据出处。",
+        "usage_subtitle3": "秒寻图片，精准定位您的所需",
+        "usage_description3": "我们常常在工作中需要快速找到特定的图片，如动物、植物、工艺品、艺术作品、人物、景点、著名建筑物等。这项任务手动筛选来选取，既费时又费力。",
+        "usage_solution3": "利用先进的AI技术，我们的工具可以精准提取照片中的关键元素。无论是动物、植物、工艺品、艺术作品，还是人物、景点、著名建筑，都能精准识别并转化为可搜索的文本，让信息搜索变得高效、轻松，省时省力。"
+    },
+    "customer": {
+        "title": "广受好评"
+    },
+    "aspectRatio":"尺寸选择",
+    "feature": {
+        "title": "探索 Ai Generator Song 的强大功能",
+        "description": "Ai Generator Song 是一款功能强大的AI图像分析工具，可以帮助您深入了解任何图像。无论是生成详细的描述、提取文本或数据，还是创建引人入胜的标题和推文，Ai Generator Song 都能满足您的需求。 使用 Ai Generator Song，您可以：",
+        "feature_list": [
+            {
+                "title": "解读图片",
+                "description": "生成图片的文字描述。",
+                "icon": "/assets/describer.svg"
+            },
+            {
+                "title": "图像生成提示词",
+                "description": "根据图像创建适合文生图（例如 Stable Diffusion、Midjourney）的提示词。",
+                "icon": "/assets/prompt.svg"
+            },
+            {
+                "title": "生成图片中内容的摘要",
+                "description": "提供对图像主要元素和主题的简明概述。",
+                "icon": "/assets/summary.svg"
+            },
+            {
+                "title": "提取并列出图片中找到的所有内容或元素",
+                "description": "识别并列出图像中存在的所有对象、特征和细节。",
+                "icon": "/assets/extract.svg"
+            },
+            {
+                "title": "为图片创建合适且吸引人的标题",
+                "description": "生成相关且引人入胜的潜在标题。",
+                "icon": "/assets/title.svg"
+            },
+            {
+                "title": "将图片中的文字翻译成英文",
+                "description": "提取图像中的任何文本并将其翻译成英文。",
+                "icon": "/assets/translate.svg"
+            },
+            {
+                "title": "从图片中的表格中提取数据，并以结构化格式呈现",
+                "description": "解释和输出图像中表格内的数据。",
+                "icon": "/assets/table.svg"
+            },
+            {
+                "title": "将此图像的内容转换为可执行代码",
+                "description": "这是一项复杂的任务，可能并非对所有图像都可行。 它是指解释代码片段或视觉布局并生成相应的代码。",
+                "icon": "/assets/code.svg"
+            },
+            {
+                "title": "为照片生成一条吸引人的推文",
+                "description": "撰写一条与图像内容相关且吸引人的推文。",
+                "icon": "/assets/tweet.svg"
+            }
+        ]
+    },
+    "logs": {
+        "title": "更新日志",
+        "description": "我们将更新日志公开，是为了向您展示 Ai Generator Song  是一款持续更新和维护的产品。 您可以浏览以下更新日志，了解更新时间线。"
+    },
+    "blog": {
+        "title": "近期文章",
+        "description": "阅读有关 Ai Generator Song 的最新消息和更新。",
+        "blog_link": "所有文章"
+    },
+    "meta": {
+        "title": "Ai Generator Song：免费 Ai Generator Song，向音乐提问生成你喜欢的音乐",
+        "description": "利用AI生成音乐，对音乐进行创造性和独特风格的解读。探索音乐奥秘，启发灵感，重塑音乐创作效率。立即加入我们吧！"
+    },
+    "input": "输入",
+    "upload_photo_description": "上传您的照片以重新设计和编辑",
+    "output": "输出结果",
+    "output_description": "看看您的照片如何通过AI玩具动作人物魔法变身",
+    "customize_optional": "自定义（可选）",
+    "select_style": "选择风格",
+    "select_style_description": "为您的照片选择一种风格",
+    "style_funko": "选择风格",
+    "style_action": "动作人物",
+    "style_anime": "动漫人物",
+    "style_lego": "乐高风格",
+    "style_clay": "粘土动画风格",
+    "generating_message": "正在生成您的人物...",
+    "generation_complete": "生成成功",
+    "generation_error": "错误：",
+    "download_failed_title": "下载失败",
+    "download_failed_message": "图片下载失败，请重试"
+}

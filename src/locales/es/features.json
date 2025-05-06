@@ -1,0 +1,30 @@
+{
+  "title": "Características Poderosas",
+  "description": "Descubre las potentes características de nuestro generador de música AI",
+  "features": [
+    {
+      "title": "Creación de Música Personalizada",
+      "description": "Transforma tus indicaciones en piezas musicales únicas, apoyando varios estilos y expresiones emocionales."
+    },
+    {
+      "title": "Opciones de Estilo Diversas",
+      "description": "Elige entre pop, rock, clásico, electrónico y más para satisfacer tus necesidades."
+    },
+    {
+      "title": "Generación Instantánea",
+      "description": "Genera piezas musicales de alta calidad en segundos usando nuestro potente modelo AI."
+    },
+    {
+      "title": "Exportación de Audio de Alta Calidad",
+      "description": "Descarga tus piezas musicales en un formato de alta calidad, perfecto para compartir y usar."
+    },
+    {
+      "title": "Variaciones de Estilo Artístico",
+      "description": "Explora diferentes estilos y variaciones musicales, desde lo clásico hasta lo moderno."
+    },
+    {
+      "title": "Almacenamiento en la Nube",
+      "description": "Guarda tus piezas musicales favoritas en tu nube personal y accede a ellas en cualquier momento y lugar."
+    }
+  ]
+}

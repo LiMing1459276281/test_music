@@ -1,0 +1,10 @@
+{
+  "title": "AI音楽ジェネレーター",
+  "subtitle": "あなたのアイデアを音楽に変換",
+  "description": "Suno技術を活用したAI音楽ジェネレーターでユニークな音楽作品を作成しましょう。",
+  "buttons": {
+    "create": "今すぐ生成",
+    "tutorial": "チュートリアルを見る"
+  },
+  "imageDescription": "音楽作成インターフェース"
+}

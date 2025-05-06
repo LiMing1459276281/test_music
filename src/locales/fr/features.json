@@ -1,0 +1,30 @@
+{
+  "title": "Fonctionnalités Puissantes",
+  "description": "Découvrez les puissantes fonctionnalités de notre générateur de musique IA",
+  "features": [
+    {
+      "title": "Création Musicale Personnalisée",
+      "description": "Transformez vos invites en morceaux de musique uniques, prenant en charge divers styles et expressions émotionnelles."
+    },
+    {
+      "title": "Options de Style Diversifiées",
+      "description": "Choisissez parmi le pop, le rock, le classique, l'électronique et plus encore pour répondre à vos besoins."
+    },
+    {
+      "title": "Génération Instantanée",
+      "description": "Générez des morceaux de musique de haute qualité en quelques secondes grâce à notre puissant modèle IA."
+    },
+    {
+      "title": "Export Audio de Haute Qualité",
+      "description": "Téléchargez vos morceaux de musique dans un format de haute qualité, parfait pour le partage et l'utilisation."
+    },
+    {
+      "title": "Variations de Style Artistique",
+      "description": "Explorez différents styles et variations musicaux, du classique au moderne."
+    },
+    {
+      "title": "Stockage Cloud",
+      "description": "Sauvegardez vos créations musicales dans le cloud pour un accès facile et sécurisé."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Image vers Prompt",
+    "description": "Boostez votre flux de travail créatif avec Image vers Prompt : générez des prompts de texte à image créatifs et précis pour Stable Diffusion, Midjourney et personnalisés, le tout alimenté par l'IA, sans avoir besoin de descriptions manuelles.",
+    "func_image_label": "1. TÉLÉCHARGEZ UNE IMAGE OU UNE PHOTO (MAX. 2 MB)",
+    "func_image_label1": "1. TÉLÉCHARGEZ UNE IMAGE OU UNE PHOTO (MAX. 4 MB)",
+    "func_model_label": "2. Modèle",
+    "func_model_list": [
+        {
+            "label": "Modèle Basique",
+            "type": "0"
+        },
+        {
+            "label": "Modèle Avancé",
+            "type": "1"
+        }
+    ],
+    "func_submit_label": "Générer Image vers Prompt",
+    "public_label": "J'accepte que ce contenu soit affiché publiquement dans le générateur de descriptions d'images.",
+    "credits_label": "Cela coûtera des crédits : 3",
+    "credits_buy_tips1": "Vos crédits sont épuisés. Pour éviter toute interruption de service,",
+    "credits_buy_tips2": "rechargez maintenant.",
+    "credits_buy_tips3": "Vous avez atteint votre limite d'utilisation. Passez à un forfait supérieur pour continuer à utiliser nos services sans interruption.",
+    "credits_buy_btn_label1": "Mettre à niveau maintenant",
+    "credits_buy_btn_label2": "Non, annuler",
+    "subscrible_tips1": "Abonnez-vous pour une expérience sans publicité, utilisez des modèles avancés, des conversations illimitées, des téléchargements d'images volumineux, boostez votre productivité et entrez dans l'ère de l'IA !",
+    "result_label": "Résultat de l'Image vers Prompt",
+    "use_title": "Comment utiliser Image vers Prompt",
+    "use_description": "À l'aide de la technologie avancée de l'IA, transformez vos images téléchargées en prompts de texte à image précis.",
+    "use_step1": "Sélectionnez ou collez une image",
+    "use_step1_des1": "Commencez par",
+    "use_step1_des2": "sélectionner une image",
+    "use_step1_des3": "depuis votre appareil ou",
+    "use_step1_des4": "en coller une directement",
+    "use_step1_des5": ". Choisissez un modèle d'IA, et cette image servira de base à la génération de prompts créatifs et précis.",
+    "use_step2": "Cliquez sur 'Générer Image vers Prompt'",
+    "use_step2_des1": "Cliquez sur le bouton",
+    "use_step2_des2": "'Générer Image vers Prompt'",
+    "use_step2_des3": ", et cet outil d'IA analysera automatiquement votre image pour",
+    "use_step2_des4": "générer des prompts",
+    "use_step2_des5": "pour Stable Diffusion, MidJourney et personnalisés.",
+    "use_step3": "Copiez les prompts d'image générés",
+    "use_step3_des1": "Copiez les prompts générés pour Stable Diffusion, MidJourney et personnalisés dans votre outil de texte à image pour créer votre œuvre.",
+    "case_title": "Découvrez comment l'IA transforme votre efficacité de conversion d'image en prompt",
+    "case1_title": "Génération de prompts de personnages d'anime",
+    "case1_des": "Téléchargez une image d'un personnage d'anime et notre IA analysera ses éléments uniques pour générer des prompts précis et créatifs. Parfait pour les artistes et les passionnés qui cherchent à recréer ou à s'inspirer de leurs designs d'anime préférés.",
+    "case2_title": "Génération de prompts d'images d'art fantastique créatif",
+    "case2_des": "Téléchargez simplement l'image artistique et laissez notre IA en disséquer l'essence créative. Aucune description manuelle n'est nécessaire : notre outil générera des prompts uniques et précis qui capturent le style, l'ambiance et les détails complexes de l'œuvre d'art. Transformez votre inspiration en réalité avec des prompts d'image.",
+    "case3_title": "Génération de prompts d'images complexes",
+    "case3_des": "Vous avez du mal à décrire une image très détaillée ou complexe ? Simplifiez les prompts d'images complexes avec notre IA, qui vous fournit des prompts complets et détaillés, ce qui facilite sa recréation ou son utilisation comme référence.",
+    "meta": {
+        "title": "Image to Prompt - Générateur de texte à partir d'image & descripteur d'image gratuit",
+        "description": "Image to Prompt est un outil puissant qui utilise l'IA pour transformer vos images en descriptions textuelles précises pour Stable Diffusion et Midjourney. Essayez-le dès maintenant !"
+    }
+}

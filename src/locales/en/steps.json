@@ -1,0 +1,18 @@
+{
+  "title": "Create Your Music in 3 Simple Steps",
+  "subtitle": "Our AI makes music creation incredibly easy",
+  "steps": {
+    "upload": {
+      "title": "Upload Audio or Choose Style",
+      "description": "Select an audio file or choose a style from our library."
+    },
+    "style": {
+      "title": "Choose Music Style",
+      "description": "Select from various styles like Pop, Classical, Electronic, or let the AI recommend!"
+    },
+    "generate": {
+      "title": "Generate & Download",
+      "description": "Our AI gets to work! Your unique music piece will be ready in moments."
+    }
+  }
+}

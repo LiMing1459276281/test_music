@@ -1,0 +1,208 @@
+{
+  "title": "KI-Bildbeschreibung",
+  "subtitle": "Fragen Sie Fotos, laden Sie Ihre Fotos oder Kunstwerke hoch und lassen Sie KI Bildinhalte, emotionale Einblicke, Datenkartenanalysen und Entstehungshintergrund enthüllen. Ob Sie Künstler, Designer, Forscher oder einfach nur Interessierte sind, dieser \"Ai Generator Song\" bietet Ihnen neue Perspektiven und Effizienz für Ihre Arbeit und Kreationen. Probieren Sie es jetzt aus!",
+  "note": "Da es sich um eine frühe Testversion handelt, sind einige Funktionen möglicherweise nicht stabil. Wir danken Ihnen für Ihre Geduld und Ihr Verständnis. Sollten Sie auf Probleme stoßen oder Vorschläge haben, können Sie uns gerne kontaktieren. Ihr Feedback ist wertvoll für uns und hilft uns, das Tool zu verbessern.",
+  "func_image_label": "1. EIN BILD ODER FOTO HOCHLADEN (MAX. 4MB)",
+  "func_image_label1": "1. EIN BILD ODER FOTO HOCHLADEN (MAX. 4MB)",
+  "func_model_label": "2. Modell",
+
+  "func_model_list": [
+    {
+      "label": "Basismodell",
+      "type": "0"
+    },
+    {
+      "label": "Erweitertes Modell",
+      "type": "1"
+    }
+  ],
+  "func_prompt_label": "3. STELLEN SIE FRAGEN (OPTIONAL)",
+  "func_prompt_placeholder": "Stellen Sie eine Frage, z. B. \"Generiere einen fesselnden Tweet für dieses Foto\"",
+  "func_text_label": "4. BESCHREIBEN SIE DAS BILD ODER FOTO",
+  "func_text_placeholder": "Bild- oder Bildergebnisse werden hier angezeigt.",
+  "func_submit_label": "Bild beschreiben",
+  "example_title": "Anwendungsbeispiele für die Bildbeschreibung",
+  "example_link_label": "Alle Beispiele erkunden",
+  "uploadForm": {
+    "title": "Upload Your Image",
+    "description": "Please select an image to upload."
+  },
+  "fqa": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Suchen Sie nach häufig gestellten Fragen zu Ai Generator Song",
+    "list": [
+      {
+        "question": "Wie erhalte ich die Beschreibung eines Bildes?",
+        "answer": "Wählen Sie zunächst ein Bild von Ihrem Gerät aus oder fügen Sie es direkt ein. Optional können Sie Fragen in das Feld \"Fragen stellen (optional)\" eingeben. Klicken Sie auf die Schaltfläche \"Beschreibung generieren\", und das KI-Tool analysiert Ihr Bild automatisch, um eine Beschreibung zu generieren."
+      },
+      {
+        "question": "Wie lösche ich ein öffentlich geteiltes Bild im Bereich \"Entdecken\"?",
+        "answer": "Sie können den Bereich \"Entdecken\" öffnen, das zu löschende Bild suchen, einen Screenshot des Bildes erstellen und eine E-Mail mit dem Zeitraum, in dem das Bild hochgeladen wurde, dem Screenshot und dem Grund für die Löschung (optional) schreiben. Senden Sie diese E-Mail an unsere offizielle Adresse. Wir werden Ihre Anfrage innerhalb von 24 Stunden prüfen und bearbeiten."
+      },
+      {
+        "question": "Wie generiere ich einen Prompt aus einem Bild?",
+        "answer": "Sie können Stable Diffusion- und Midjourney-Prompts direkt mit unserem Tool [Image To Prompt] erstellen. Alternativ können Sie ein Bild in das Tool [Ai Generator Song] hochladen und \"Schreibe einen Midjourney-Prompt in natürlicher Sprache für das folgende Bild\" in das Eingabefeld [Fragen stellen] eingeben, um einen Prompt für dieses Bild zu erhalten."
+      },
+      {
+        "question": "Wie schütze ich meine Privatsphäre bei der Verwendung von Ai Generator Song?",
+        "answer": "Dieses KI-Bildbeschreibungstool räumt Ihrer Privatsphäre Priorität ein und zeichnet keine persönlichen Daten ohne Ihre ausdrückliche Zustimmung auf. Nur mit Ihrer Zustimmung wird die Website Ihre Bildinterpretationen und Inhalte in ihrer Fallbibliothek veröffentlichen."
+      },
+      {
+        "question": "Wie ist das Bildbeschreibungstool implementiert?",
+        "answer": "Das Bildbeschreibungstool wird mithilfe von großen Sprachmodellen implementiert. Es erkennt Elemente und ihre Beziehungen in Bildern und analysiert Farbe, Form und Textur, um verborgene Bedeutungen zu enthüllen."
+      }
+    ],
+    "fqa_note_label": "Sie können die gewünschte Antwort nicht finden? Wenden Sie sich an unseren ",
+    "fqa_link_label": "Kundensupport"
+  },
+  "donation_label": "Kauf mir einen Kaffee",
+  "donation_about": "Wenn Ihnen mein Tool gefällt, erwägen Sie bitte eine kleine Spende, um mir bei der Wartung der Website zu helfen.  Ich freue mich über jede Unterstützung – sehen Sie es als einen virtuellen Kaffee für mich an!",
+  "public_label": "Ich bin damit einverstanden, diesen Inhalt öffentlich auf Ai Generator Song anzuzeigen.",
+  "usage": {
+    "usage_title": "Entdecken Sie, wie KI die Effizienz Ihrer Bildverarbeitung transformiert",
+    "usage_subtitle1": "Alten Fotos und Kunstwerken neues Leben einhauchen",
+    "usage_description1": "Alte Fotos aus Ihrer Kindheit und einzigartige Kunstwerke geraten mit der Zeit oft in Vergessenheit, und die Geschichten und Emotionen, die dahinter stecken, können verblassen.",
+    "usage_solution1": "Unser Tool kann alte Fotos und Kunstwerke kreativ und einzigartig neu interpretieren. Indem wir ihre Hintergründe, Emotionen und die Geschichten, die sie erzählen, tiefgründig analysieren, können wir jedem Bild neues Leben einhauchen und Ihnen helfen, es auf eine ganz neue Art und Weise zu sehen und zu schätzen.",
+    "usage_subtitle2": "Klare Erkenntnisse aus komplexen Diagrammen",
+    "usage_description2": "In Forschung, Finanzen und Wirtschaft ist die Analyse von Diagrammdaten ein wesentlicher Bestandteil der Arbeit. Aber manchmal können Diagramme kompliziert und schwer zu verstehen sein, besonders wenn ihre Quelle unklar ist.",
+    "usage_solution2": "Unser Tool kann Forschungs-, Finanz- und Geschäftsdiagramme intelligent aufschlüsseln und Ihnen helfen, schnell zu verstehen, was sie zeigen. Es kann auch den Ursprung der Diagramme zurückverfolgen und detaillierte Hintergrundinformationen und Datenquellen liefern, sodass Sie immer wissen, woher die Daten stammen.",
+    "usage_subtitle3": "Finden Sie die richtigen Inhalte intuitiver",
+    "usage_description3": "Wir müssen oft schnell bestimmte Bilder für die Arbeit finden, wie Tiere, Pflanzen, Kunsthandwerk, Kunstwerke, Menschen, Sehenswürdigkeiten und berühmte Gebäude. Dies manuell zu tun, ist zeitaufwendig und anstrengend.",
+    "usage_solution3": "Mit unserer fortschrittlichen KI-Technologie kann unser Tool Schlüsselelemente in Fotos genau lokalisieren. Egal, ob es sich um Tiere, Pflanzen, Kunsthandwerk, Kunst, Menschen, Sehenswürdigkeiten oder berühmte Gebäude handelt, unser Tool kann sie präzise identifizieren und in durchsuchbaren Text umwandeln. Das macht das Finden von Informationen schnell, einfach und spart Ihnen viel Zeit und Mühe."
+  },
+  "customer": {
+    "title": "Das sagen unsere Nutzer"
+  },
+  "feature": {
+    "title": "Entdecken Sie die Möglichkeiten von Ai Generator Song",
+    "description": "Entdecken Sie eine Welt voller Möglichkeiten, die in Ihren Bildern verborgen sind. Generieren Sie Beschreibungen, extrahieren Sie Daten, übersetzen Sie Text und vieles mehr. Mit Ai Generator Song können Sie:",
+    "feature_list": [
+      {
+        "title": "Bildbeschreibung",
+        "description": "Generieren Sie eine detaillierte textuelle Beschreibung eines Bildes.",
+        "icon": "/assets/describer.svg"
+      },
+      {
+        "title": "Bild zu Prompt",
+        "description": "Erstellen Sie auf der Grundlage eines Bildes passende Prompts für KI-Bildgeneratoren (z. B. Stable Diffusion, Midjourney).",
+        "icon": "/assets/prompt.svg"
+      },
+      {
+        "title": "Zusammenfassung des Bildinhalts",
+        "description": "Liefern Sie eine prägnante Übersicht über die wichtigsten Elemente und Themen des Bildes.",
+        "icon": "/assets/summary.svg"
+      },
+      {
+        "title": "Alle Inhalte und Elemente des Bildes extrahieren und auflisten",
+        "description": "Identifizieren und listen Sie alle Objekte, Merkmale und Details auf, die im Bild vorhanden sind.",
+        "icon": "/assets/extract.svg"
+      },
+      {
+        "title": "Einen passenden und einprägsamen Titel für dieses Bild erstellen",
+        "description": "Generieren Sie potenzielle Titel, die relevant und ansprechend sind.",
+        "icon": "/assets/title.svg"
+      },
+      {
+        "title": "Text im Bild ins Englische übersetzen",
+        "description": "Extrahieren und übersetzen Sie jeden Text innerhalb des Bildes ins Englische.",
+        "icon": "/assets/translate.svg"
+      },
+      {
+        "title": "Daten aus der Tabelle in diesem Bild extrahieren und in einem strukturierten Format darstellen",
+        "description": "Interpretieren und strukturieren Sie Daten, die in Tabellen innerhalb von Bildern enthalten sind.",
+        "icon": "/assets/table.svg"
+      },
+      {
+        "title": "Den Inhalt dieses Bildes in ausführbaren Code umwandeln",
+        "description": "Dies ist eine komplexe Aufgabe und möglicherweise nicht für alle Bilder möglich. Es bezieht sich wahrscheinlich auf die Interpretation von Codeschnipseln oder visuellen Layouts und die Generierung von entsprechendem Code.",
+        "icon": "/assets/code.svg"
+      },
+      {
+        "title": "Einen fesselnden Tweet für dieses Foto generieren",
+        "description": "Verfassen Sie einen Tweet, der Aufmerksamkeit erregt und für den Bildinhalt relevant ist.",
+        "icon": "/assets/tweet.svg"
+      }
+    ]
+  },
+  "logs": {
+    "title": "Änderungsprotokoll",
+    "description": "Wir machen das Änderungsprotokoll öffentlich, um Ihnen zu zeigen, dass Ai Generator Song ein gut aktualisiertes und gepflegtes Produkt ist. Lesen Sie die Zeitleiste der Aktualisierungen, indem Sie das untenstehende Änderungsprotokoll durchsuchen."
+  },
+  "blog": {
+    "title": "Neueste Beiträge",
+    "description": "Lesen Sie unsere neuesten Nachrichten und Updates zu Ai Generator Song.",
+    "blog_link": "Alle Beiträge"
+  },
+  "meta": {
+    "title": "Ai Generator Song：Kostenloser Ai Generator Song, Fragen Sie die Musik, um Ihre Lieblingsmusik zu generieren",
+    "description": "Nutzen Sie KI, um Musik zu generieren, und interpretieren Sie Musik auf kreative und einzigartige Weise. Entdecken Sie die Geheimnisse der Musik, inspirieren Sie Ihre Kreativität und steigern Sie die Effizienz der Musikproduktion. Treten Sie jetzt bei uns ein!"
+  },
+  "credits_buy_tips3": "Sie haben nicht genügend Credits.",
+  "credits_buy_tips2": "Mehr Credits kaufen",
+  "credits_buy_btn_label1": "Ja, ich möchte kaufen",
+  "credits_buy_btn_label2": "Nein, abbrechen",
+  "subscrible_tips1": "Melden Sie sich an, um alle Funktionen freizuschalten und kostenlose Credits zu erhalten!",
+  "select_style": "Stil wählen",
+  "select_style_description": "Wählen Sie einen Stil für Ihr Foto",
+  "style_funko": "Funko-Stil",
+  "style_action": "Action-Figur",
+  "style_anime": "Anime-Figur",
+  "style_lego": "Lego-Stil",
+  "style_clay": "Knetanimation-Stil",
+  "generating_message": "Ihre Figur wird generiert...",
+  "generation_complete": "Generierung erfolgreich abgeschlossen",
+  "generation_error": "Fehler:",
+  "download_failed_title": "Download fehlgeschlagen",
+  "download_failed_message": "Bild-Download fehlgeschlagen, bitte versuchen Sie es erneut",
+  "aspectRatio":"Seitenverhältnis",
+  "oops_title": "Oops!",
+  "select_image_error": "Select an image",
+  "generator": {
+    "title": "KI-Musik-Generator",
+    "form": {
+      "describe": {
+        "title": "Beschreiben Sie Ihre Musik",
+        "description": "Beschreiben Sie die Musik, die Sie erstellen möchten. Geben Sie Details zu Stimmung, Instrumenten, Tempo usw. an."
+      },
+      "style": {
+        "title": "Musikstil auswählen",
+        "description": "Wählen Sie ein Musikgenre, das am besten zu Ihrem gewünschten Output passt"
+      },
+      "upload": {
+        "click": "Zum Hochladen klicken",
+        "paste": "oder Bild einfügen",
+        "format": "PNG, JPG oder JPEG (Empfohlen: 300 x 300px)"
+      }
+    },
+    "generator": {
+      "form": {
+        "title": "Musiktitel",
+        "title_placeholder": "Geben Sie Ihrer Musikkreation einen Namen"
+      }
+    },
+    "generation": {
+      "button": {
+        "generating": "Generiere...",
+        "generate": "Musik generieren"
+      },
+      "player": {
+        "title": "Ihre generierte Musik",
+        "description": "Hören Sie sich Ihre KI-generierte Musik an und laden Sie sie herunter, wenn Sie zufrieden sind",
+        "empty": {
+          "title": "Noch keine Musik generiert",
+          "description": "Füllen Sie das Formular links aus und klicken Sie auf \"Musik generieren\", um Ihre eigene KI-Musik zu erstellen"
+        },
+        "generated": "Generiert aus Ihrer Eingabe"
+      }
+    },
+    "errors": {
+      "generation": {
+        "title": "Generierung fehlgeschlagen",
+        "message": "Musik konnte nicht generiert werden. Bitte versuchen Sie es erneut."
+      },
+      "prompt": {
+        "empty": "Bitte geben Sie eine Beschreibung ein"
+      }
+    }
+  }
+}

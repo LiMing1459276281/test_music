@@ -1,0 +1,149 @@
+{
+    "title": "AI 피규어 생성기 가격",
+    "subtitle": "크레딧을 구매할 플랜을 선택하고 AI 피규어 생성기로 창의력을 발휘하세요.",
+    "pricing_description": "AI 음악 생성은 크레딧 기반 시스템을 사용하며, 각 생성에는 3 크레딧이 필요합니다。",
+    "ko_fi_tips1": "☕ ko-fi 팁: ko-fi 결제 메시지에 AI 피규어 생성기 사용자 이름을 입력하는 것을 잊지 마세요! 😉 ( 잊으셨나요? ",
+    "payment_tips1": "💳 결제 팁: 결제 과정에서 문제가 발생하면 언제든지 문의해 주세요! 😉  ( 문의 사항이 있으신가요? ",
+    "ko_fi_tips2": "문의하기",
+    "news": "흥미진진한 소식! 지금 AI 피규어 생성기를 위한 크레딧을 구매하고 50% 할인을 받으세요!",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "1회 결제",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants": [
+                {
+                    "creditsAmount": "크레딧 70개",
+                    "unitPrice": "크레딧당 0.07€",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "크레딧 150개",
+                    "unitPrice": "크레딧당 0.06€",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "크레딧 400개",
+                    "unitPrice": "크레딧당 0.05€",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "크레딧 650개",
+                    "unitPrice": "크레딧당 0.04€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "반복 결제 없음",
+            "buy_lable": "플랜 구매",
+            "description": [
+                "무제한 대화 수",
+                "빠른 생성 속도",
+                "고급 모델 기반",
+                "광고 없음",
+                "우선 고객 지원"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "월간 구독",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /월",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "크레딧 90개",
+                    "unitPrice": "크레딧당 0.06€",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "크레딧 200개",
+                    "unitPrice": "크레딧당 0.05€",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "크레딧 750개",
+                    "unitPrice": "크레딧당 0.04€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "크레딧 1500개",
+                    "unitPrice": "크레딧당 0.03€",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "언제든지 취소 가능",
+            "buy_lable": "플랜 구매",
+            "description": [
+                "무제한 대화 수",
+                "빠른 생성 속도",
+                "고급 모델 기반",
+                "광고 없음",
+                "우선 고객 지원"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "연간 구독",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /월",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "크레딧 600개",
+                    "unitPrice": "크레딧당 0.05€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "크레딧 1250개",
+                    "unitPrice": "크레딧당 0.04€",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "크레딧 3000개",
+                    "unitPrice": "크레딧당 0.03€",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "크레딧 10000개",
+                    "unitPrice": "크레딧당 0.02€",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "언제든지 취소 가능",
+            "buy_lable": "플랜 구매",
+            "description": [
+                "고우선순위 API 액세스",
+                "정기적인 업데이트 및 개선",
+                "무제한 대화 수",
+                "빠른 생성 속도",
+                "고급 모델 기반",
+                "광고 없음",
+                "우선 지원(24시간 이내 응답)"
+            ]
+        }
+    ],
+    "meta": {
+        "title": "Ai Generator Song 가격",
+        "description": "저희 결제 시스템에 대한 정보와 결제, 구독 등에 대한 FAQ를 확인하세요."
+    }
+}

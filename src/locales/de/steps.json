@@ -1,0 +1,18 @@
+{
+  "title": "Erstellen Sie Ihre Musik in 3 einfachen Schritten",
+  "subtitle": "Unsere KI macht die Musikkreation unglaublich einfach",
+  "steps": {
+    "upload": {
+      "title": "Audio hochladen oder Stil wählen",
+      "description": "Wählen Sie eine Audiodatei oder einen Stil aus unserer Bibliothek."
+    },
+    "style": {
+      "title": "Musikstil wählen",
+      "description": "Wählen Sie aus verschiedenen Stilen wie Pop, Klassik, Elektronik oder lassen Sie sich von der KI empfehlen!"
+    },
+    "generate": {
+      "title": "Generieren & Herunterladen",
+      "description": "Unsere KI macht sich an die Arbeit! Ihr einzigartiges Musikstück wird in Kürze fertig sein."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Bild zu Prompt",
+    "description": "Steigern Sie Ihre kreative Arbeitsweise mit Bild zu Prompt – Generieren Sie kreative und präzise Text-zu-Bild-Prompts für Stable Diffusion, Midjourney und mehr – alles unterstützt durch KI, ganz ohne manuelle Beschreibungen.",
+    "func_image_label": "1. LADEN SIE EIN BILD ODER FOTO HOCH (MAX. 2 MB)",
+    "func_image_label1": "1. LADEN SIE EIN BILD ODER FOTO HOCH (MAX. 4 MB)",
+    "func_model_label": "2. Modell",
+    "func_model_list": [
+        {
+            "label": "Basismodell",
+            "type": "0"
+        },
+        {
+            "label": "Erweitertes Modell",
+            "type": "1"
+        }
+    ],
+    "func_submit_label": "Bild zu Prompt generieren",
+    "public_label": "Ich stimme zu, dass dieser Inhalt öffentlich im Bildbeschreibungsgenerator angezeigt wird.",
+    "credits_label": "Verfügbare Credits：3",
+    "credits_buy_tips1": "Deine Credits sind aufgebraucht. Um Dienstunterbrechungen zu vermeiden, ",
+    "credits_buy_tips2": "jetzt aufladen.",
+    "credits_buy_tips3": "Du hast dein Nutzungslimit erreicht. Wechsle zu einem höheren Tarif, um unsere Dienste ohne Unterbrechung weiter nutzen zu können.",
+    "credits_buy_btn_label1": "Jetzt upgraden",
+    "credits_buy_btn_label2": "Nein, abbrechen",
+    "subscrible_tips1": "Abonniere für ein werbefreies Erlebnis, nutze erweiterte Modelle, unbegrenzte Konversationen, große Bild-Uploads, steigere deine Produktivität und tauche ein in die Ära der KI!",
+    "result_label": "Ergebnis der Bild-Prompts",
+    "use_title": "So verwendest du Bild zu Prompt",
+    "use_description": "Verwandle deine hochgeladenen Bilder mithilfe fortschrittlicher KI-Technologie in präzise Text-zu-Bild-Prompts.",
+    "use_step1": "Wähle ein Bild aus oder füge es ein",
+    "use_step1_des1": "Beginne mit",
+    "use_step1_des2": "der Auswahl eines Bildes",
+    "use_step1_des3": "von deinem Gerät oder",
+    "use_step1_des4": "füge eines direkt ein",
+    "use_step1_des5": ". Wähle ein KI-Modell, und dieses Bild dient als Grundlage für die Generierung kreativer und präziser Prompts.",
+    "use_step2": "Klicke auf 'Bild zu Prompt generieren'",
+    "use_step2_des1": "Klicke auf die Schaltfläche",
+    "use_step2_des2": "'Bild zu Prompt generieren'",
+    "use_step2_des3": ", und dieses KI-Tool analysiert automatisch dein Bild, um",
+    "use_step2_des4": "Prompts zu generieren",
+    "use_step2_des5": "für Stable Diffusion, MidJourney und mehr.",
+    "use_step3": "Kopiere generierte Bild-Prompts",
+    "use_step3_des1": "Kopiere die generierten Stable Diffusion-, MidJourney- und anderen Prompts in dein Text-zu-Bild-Tool, um dein Kunstwerk zu erstellen.",
+    "case_title": "Entdecke, wie KI die Effizienz deiner Bild-zu-Prompt-Umwandlung steigert",
+    "case1_title": "Anime-Charakter-Prompt-Generierung",
+    "case1_des": "Lade ein Bild eines Anime-Charakters hoch, und unsere KI analysiert seine einzigartigen Elemente, um präzise und kreative Prompts zu generieren. Perfekt für Künstler und Enthusiasten, die ihre Lieblings-Anime-Designs nachbilden oder sich von ihnen inspirieren lassen möchten.",
+    "case2_title": "Kreative Fantasy-Kunst-Bild-Prompt-Generierung",
+    "case2_des": "Lade einfach das Kunstbild hoch und lass unsere KI ihre kreative Essenz sezieren. Keine manuellen Beschreibungen erforderlich – unser Tool generiert einzigartige und präzise Prompts, die den Stil, die Stimmung und die komplizierten Details des Kunstwerks erfassen. Verwandle deine Inspiration mit Bild-Prompts in die Realität.",
+    "case3_title": "Komplexe Bild-Prompt-Generierung",
+    "case3_des": "Hast du Schwierigkeiten, ein sehr detailliertes oder komplexes Bild zu beschreiben? Vereinfache komplexe Bild-Prompts mit unserer KI, die dir umfassende und detaillierte Prompts liefert, die das Nachbilden oder Verwenden als Referenz erleichtern.",
+    "meta": {
+        "title": "Image to Prompt - Kostenloser Bild-zu-Text-Prompt-Generator & Bildbeschreibungsgenerator",
+        "description": "Image to Prompt ist ein leistungsstarkes Tool, das mithilfe fortschrittlicher KI-Technologie Ihre hochgeladenen Bilder in präzise Text-zu-Bild-Prompts für Plattformen wie Stable Diffusion und Midjourney umwandelt. Jetzt testen!"
+    }
+}

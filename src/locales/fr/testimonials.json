@@ -1,0 +1,18 @@
+{
+  "title": "Ce que disent nos utilisateurs",
+  "subtitle": "Découvrez comment notre Générateur de Musique IA révolutionne la création musicale",
+  "testimonials": [
+    {
+      "text": "En tant qu'amateur de musique, j'ai toujours voulu créer ma propre musique originale. Cet outil IA est incroyable ! J'ai créé une pièce de musique de style fantastique qui semble avoir été faite par un musicien professionnel.",
+      "author": "Emily Johnson"
+    },
+    {
+      "text": "En tant que producteur de musique, je suis impressionné par la capacité de l'IA à comprendre les styles et les rythmes musicaux. La musique générée fournit un matériel de référence parfait pour mon travail professionnel. Cet outil est devenu une partie essentielle de mon processus créatif.",
+      "author": "Michael Chen"
+    },
+    {
+      "text": "J'ai créé une musique de thème de super-héros personnalisée basée sur les paroles de mon fils. Le détail et la qualité de la musique ont dépassé mes attentes. Il était ravi de voir son œuvre prendre vie sous forme de musique professionnelle.",
+      "author": "Sophia Martinez"
+    }
+  ]
+}

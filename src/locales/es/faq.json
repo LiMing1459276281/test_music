@@ -1,0 +1,18 @@
+{
+    "faq_title": "Preguntas Frecuentes",
+    "faq_description": "Encuentra respuestas a preguntas comunes sobre nuestro Generador de Música AI",
+    "question_1": "¿Qué tipos de prompts funcionan mejor con el Generador de Música AI?",
+    "answer_1": "Los prompts claros y específicos funcionan mejor. Una buena iluminación y un fondo neutral ayudarán a nuestra IA a crear los mejores resultados. Evita los prompts demasiado generales o ambiguos.",
+    "question_2": "¿Cuánto tiempo lleva generar música AI?",
+    "answer_2": "La mayoría de las generaciones se completan en solo 2-5 minutos, dependiendo de la carga del servidor y la complejidad del prompt. Los usuarios Pro reciben procesamiento prioritario para resultados aún más rápidos.",
+    "question_3": "¿Puedo usar el generador de música AI de forma gratuita?",
+    "answer_3": "Los usuarios gratuitos pueden generar una vez al registrarse y necesitan iniciar sesión. Para funciones adicionales y límites de uso más altos, actualiza tu plan.",
+    "question_4": "¿Qué estilos de música puedo generar?",
+    "answer_4": "Ofrecemos una amplia gama de estilos, incluidos géneros populares como Clásico, Jazz, Rock, Pop, Electrónica y Hip-Hop. Además de estos preajustes, también puedes usar nuestro Generador de Música AI basado en texto para generar música basada en tus descripciones textuales.",
+    "question_5": "¿Cómo maneja el Generador de Música AI la privacidad del usuario?",
+    "answer_5": "Priorizamos tu privacidad. Los prompts se utilizan únicamente para generar tu música y generalmente se eliminan después de 24 horas. Nunca almacenamos ni conservamos tus prompts subidos en nuestros servidores.",
+    "question_6": "¿Puedo usar la música generada comercialmente?",
+    "answer_6": "Sí, tienes todos los derechos comerciales para usar la música creada con nuestra herramienta.",
+    "more_questions": "¿Tienes más preguntas?",
+    "contact_support": "Contactar Soporte"
+}

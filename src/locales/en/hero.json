@@ -1,0 +1,10 @@
+{
+  "title": "Ai Generator Song",
+  "subtitle": "Transform your ideas into personalized music",
+  "description": "Use our AI music generator powered by Suno API to create unique musical compositions.",
+  "buttons": {
+    "create": "Generate Now",
+    "tutorial": "View Tutorial"
+  },
+  "imageDescription": "Music creation interface"
+}

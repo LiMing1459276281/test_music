@@ -1,0 +1,207 @@
+{
+    "title": "Ai Generator Song",
+    "subtitle": "Ask Photos, Upload your photos or artwork, let AI reveal Image Content, Emotional Insights, Data Chart Analysis, and Creation Background. Whether you're an artist, designer, researcher, or anyone interested, this \"Ai Generator Song\" offers new perspectives and efficiency for your work and creations. Try it now!",
+    "note": "As this is an early test version, some functions may not be stable. We appreciate your patience and understanding. If you encounter any problems or have any suggestions, please feel free to contact us. Your feedback is valuable to us and will help us improve the tool.",
+    "func_image_label": "1. UPLOAD AN IMAGE OR PHOTO (MAX 4MB)",
+    "func_image_label1": "1. UPLOAD AN IMAGE OR PHOTO (MAX 4MB)",
+    "func_model_label": "2. Model",
+    "generator": {
+        "title": "AI Music Generator",
+        "form": {
+          "title": "Music Title",
+          "describe": {
+            "title": "Describe Your Music",
+            "description": "Describe the music you want to create. Be specific about mood, instruments, tempo, etc."
+          },
+          "style": {
+            "title": "Select Music Style",
+            "description": "Choose a music genre that best matches your desired output"
+          },
+          "upload": {
+            "click": "Click to upload",
+            "paste": "or paste image",
+            "format": "PNG, JPG or JPEG (Recommended: 300 x 300px)"
+          }
+        },
+        "generator": {
+          "form": {
+            "title": "Music Title",
+            "title_placeholder": "Give your music creation a name"
+          }
+        },
+        "generation": {
+          "button": {
+            "generating": "Generating...",
+            "generate": "Generate Music"
+          },
+          "player": {
+            "title": "Your Generated Music",
+            "description": "Listen to your AI-generated music and download it when you're satisfied",
+            "empty": {
+              "title": "No Music Generated Yet",
+              "description": "Fill out the form on the left and click \"Generate Music\" to create your custom AI music"
+            },
+            "generated": "Generated from your prompt"
+          }
+        },
+        "errors": {
+          "generation": {
+            "title": "Generation Failed",
+            "message": "Failed to generate music. Please try again."
+          },
+          "prompt": {
+            "empty": "Please enter a prompt"
+          }
+        }
+      },
+    "func_model_list": [
+        {
+            "label": "Basic Model",
+            "type": "0"
+        },
+        {
+            "label": "Advanced Model",
+            "type": "1"
+        }
+    ],
+    "func_prompt_label": "3. ASK QUESTIONS (OPTIONAL)",
+    "func_prompt_placeholder": "Ask a question, such as \"Generate a captivating tweet for this photo\"",
+    "func_text_label": "4. Generate Action Figure Now",
+    "func_text_placeholder": "Describe image or picture results will appear here.",
+    "func_submit_label": "Describe Image",
+    "example_title": "Ai Generator Song Use Case Examples",
+    "example_link_label": "Explore All Examples",
+    "fqa":{
+        "title": "Frequently asked questions",
+        "description":"Search for the questions that are frequently asked about Ai Generator Song",
+        "list": [
+            {
+                "question": "How to get the description of an image?",
+                "answer": "To begin, select an image from your device or paste one directly. You can optionally input any questions you have in the \"ASK QUESTIONS (OPTIONAL)\" box. Click the \"Description Generation\" button and the AI tool will automatically analyze your image to generate a description."
+            },
+            {
+                "question": "How do I delete a publicly shared image in the Explore section?",
+                "answer": "You can open the Explore section, locate the image you wish to delete, take a screenshot of the image, and write an email including the time frame when the image was uploaded, the screenshot, and the reason for deletion (optional). Send this email to our official address. We will review and process your request within 24 hours."
+            },
+            {
+                "question": "How to generate a prompt from a picture?",
+                "answer": "You can generate Stable Diffusion and Midjourney prompts directly using our [Image To Prompt] tool. Alternatively, upload an image to the [Ai Generator Song] tool and type \"Write a Midjourney natural language prompt for the following image\" in the [ASK QUESTIONS] input box to get a prompt for that image."
+            },
+            {
+                "question": "How to Protect Privacy When Using Ai Generator Song?",
+                "answer": "This Ai Generator Song tool prioritizes your privacy and does not record any personal information without your explicit consent. Only with your permission will the website share your image interpretations and content in its case library."
+            },
+            {
+                "question": "How is the Ai Generator Song tool implemented?",
+                "answer": "The Ai Generator Song tool is implemented using large-scale language models. It recognizes elements and their relationships in images, analyzing color, shape, and texture to reveal hidden meanings."
+            }
+        ],
+        "fqa_note_label": "Can’t find the answer you’re looking for? Reach out to our ",
+        "fqa_link_label": "customer support team"
+    },
+    "public_label": "I agree to publicly display this content on Ai Generator Song.",
+    "usage": {
+        "usage_title": "Discover How AI Transforms You Image Processing Efficiency",
+        "usage_subtitle1": "Breathing New Life into Old Photos and Artworks",
+        "usage_description1": "Old photos from your childhood and unique artworks often get forgotten over time, and the stories and emotions behind them can fade away.",
+        "usage_solution1": "Our tool can creatively and uniquely reinterpret old photos and artworks. By deeply analyzing their backgrounds, emotions, and the stories behind them, we can bring new life to each image, helping you see and appreciate them in a whole new way.",
+        "usage_subtitle2": "Clear Insights from Complex Charts",
+        "usage_description2": "In research, finance, and business, analyzing chart data is a crucial part of the job. But sometimes, charts can be complicated and hard to understand, especially if their source is unclear.",
+        "usage_solution2": "Our tool can intelligently break down research, financial, and business charts, helping you quickly understand what they’re showing. It can also trace the origin of the charts, providing detailed background information and data sources, so you always know where the data comes from.",
+        "usage_subtitle3": "Find the right content, more intuitively",
+        "usage_description3": "We often need to quickly find specific images for work, like animals, plants, crafts, art pieces, people, landmarks, and famous buildings. Doing this manually is time-consuming and exhausting.",
+        "usage_solution3": "With our advanced AI technology, our tool can accurately pinpoint key elements in photos. Whether it’s animals, plants, crafts, art, people, landmarks, or famous buildings, our tool can identify them precisely and turn them into searchable text. This makes finding information fast, easy, and saves you a lot of time and effort."
+    },
+    "customer": {
+        "title": "What Our Users Are Saying"
+    },
+    "feature": {
+        "title": "Explore the Power of Ai Generator Song",
+        "description": "Discover a world of possibilities hidden within your images. Generate descriptions, extract data, translate text, and more. Ai Generator Song empowers you to:",
+        "feature_list": [
+            {
+                "title": "Describe Picture",
+                "description": "Generate a detailed textual description of an image.",
+                "icon": "/assets/describer.svg"
+            },
+            {
+                "title": "Image To Prompt",
+                "description": "Create prompts suitable for AI image generators (e.g., Stable Diffusion, Midjourney) based on an image.",
+                "icon": "/assets/prompt.svg"
+            },
+            {
+                "title": "Provide a summary of the content depicted in this image",
+                "description": "Offer a concise overview of the image's main elements and themes.",
+                "icon": "/assets/summary.svg"
+            },
+            {
+                "title": "Extract and list all the content or elements found in this image",
+                "description": "Identify and list all objects, features, and details present in the image.",
+                "icon": "/assets/extract.svg"
+            },
+            {
+                "title": "Create a fitting and catchy title for this image",
+                "description": "Generate potential titles that are relevant and engaging.",
+                "icon": "/assets/title.svg"
+            },
+            {
+                "title": "Translate the text in the picture into English",
+                "description": "Extract and translate any text within the image into English.",
+                "icon": "/assets/translate.svg"
+            },
+            {
+                "title": "Extract the data from the table in this image and present it in a structured format",
+                "description": "Interpret and structure data contained in tables within images.",
+                "icon": "/assets/table.svg"
+            },
+            {
+                "title": "Convert the content of this image into executable code",
+                "description": "This is a complex task and may not be possible for all images. It likely refers to interpreting code snippets or visual layouts and generating corresponding code.",
+                "icon": "/assets/code.svg"
+            },
+            {
+                "title": "Generate a captivating tweet for this photo",
+                "description": "Compose a tweet that is attention-grabbing and relevant to the image content.",
+                "icon": "/assets/tweet.svg"
+            }
+        ]
+    },
+    "logs":{
+        "title": "Changelog",
+        "description": "We keep the changelog public to show you that Ai Generator Song is a well-updated and maintained product. Read through the timeline of updates by browsing the changelog below."
+    },
+    "blog":{
+        "title": "Recent Posts",
+        "description": "Read our latest news and updates about Ai Generator Song.",
+        "blog_link": "All Posts"
+    },
+    "meta": {
+        "title": "Ai Generator Song: Free Ai Generator Song, Ask music to generate your favorite music",
+        "description": "Utilize AI to generate music and interpret music in a creative and unique style. Explore the mysteries of music, inspire creativity, and reshape music creation efficiency. Join us now!"
+    },
+    "input": "Input",
+    "upload_photo_description": "Upload your photo to restyle & edit",
+    "output": "Output",
+    "output_description": "See your photo turn with AI Action Figure magic",
+    "customize_optional": "Customize (Optional)",
+    "credits_label": "Consume Points：3",
+    "credits_buy_tips1": "You don't have enough credits.",
+    "credits_buy_tips2": "Buy more credits",
+    "credits_buy_tips3": "Are you sure you want to buy more credits?",
+    "credits_buy_btn_label1": "Yes, I want to buy",
+    "credits_buy_btn_label2": "No, cancel",
+    "subscrible_tips1": "Sign up to unlock all features and get free credits!",
+    "select_style": "Choose Style",
+    "select_style_description": "Select a style for your photo",
+    "style_funko": "Select Style",
+    "style_action": "Action Figure",
+    "style_anime": "Anime Figure",
+    "style_lego": "Lego Style",
+    "style_clay": "Claymation Style",
+    "generating_message": "Generating your figure...",
+    "generation_complete": "Generation completed successfully",
+    "generation_error": "Error:",
+    "download_failed_title": "Download Failed",
+    "download_failed_message": "Image download failed, please try again",
+    "aspectRatio":"Aspect Ratio"
+}

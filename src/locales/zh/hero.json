@@ -1,0 +1,10 @@
+{
+  "title": "AI音乐生成器",
+  "subtitle": "将您的创意转化为个性化音乐",
+  "description": "使用我们的AI音乐生成器，通过Suno技术接口快速创建独特音乐作品。",
+  "buttons": {
+    "create": "立即生成",
+    "tutorial": "查看教程"
+  },
+  "imageDescription": "音乐创作界面展示"
+}

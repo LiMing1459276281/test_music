@@ -1,0 +1,149 @@
+{
+    "title": "AI人偶生成器价格",
+    "subtitle": "选择一个计划购买积分，用AI人偶生成器释放您的创造力。",
+    "pricing_description": "AI音乐生成采用积分制，每次生成需要3个积分。",
+    "ko_fi_tips1": "☕ ko-fi小贴士：别忘了在ko-fi付款留言中写下你的AI人偶生成器用户名哦！😉（ 忘记写了？",
+    "payment_tips1": "💳 支付提示: 如果您在支付过程中遇到任何问题，请随时联系我们！😉  ( 问题? ",
+    "ko_fi_tips2": "联系我们",
+    "news": "好消息！现在购买AI人偶生成器积分可享受50%优惠！",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "单次购买",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants":[
+                {
+                    "creditsAmount": "70 积分",
+                    "unitPrice": "0.07 / 每积分",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150 积分",
+                    "unitPrice": "0.06 / 每积分",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400 积分",
+                    "unitPrice": "0.05 / 每积分",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650 积分",
+                    "unitPrice": "0.04 / 每积分",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "不会重复扣费",
+            "buy_lable": "购买积分",
+            "description": [
+                "不限对话次数",
+                "快速生成速度",
+                "使用高级模型",
+                "无广告体验",
+                "优先客服支持"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "月度订阅",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "/月",
+            "defaultVariant": 0,
+            "variants":[
+                {
+                    "creditsAmount": "90 积分",
+                    "unitPrice": "0.06 / 每积分",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200 积分",
+                    "unitPrice": "0.05 / 每积分",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750 积分",
+                    "unitPrice": "0.04 / 每积分",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500 积分",
+                    "unitPrice": "0.03 / 每积分",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "随时可退订",
+            "buy_lable": "订阅会员",
+            "description": [
+                "不限对话次数",
+                "快速生成速度",
+                "使用高级模型",
+                "无广告体验",
+                "优先客服支持"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "年度订阅",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": "/月",
+            "defaultVariant": 0,
+            "variants":[
+                {
+                    "creditsAmount": "600 积分",
+                    "unitPrice": "0.05 / 每积分",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250 积分",
+                    "unitPrice": "0.04 / 每积分",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000 积分",
+                    "unitPrice": "0.03 / 每积分",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000 积分",
+                    "unitPrice": "0.02 / 每积分",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "随时可退订",
+            "buy_lable": "订阅会员",
+            "description": [
+                "高优先级API访问",
+                "定期更新和改进",
+                "不限对话次数",
+                "快速生成速度",
+                "使用高级模型",
+                "无广告体验",
+                "优先支持（24小时内回复）"
+            ]
+        }
+    ],
+    "meta": {
+        "title":"AI人偶生成器价格",
+        "description":"了解我们的计费规则，并在此找到有关付款、订阅等常见问题的解答。"
+    }
+}

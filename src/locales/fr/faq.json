@@ -1,0 +1,18 @@
+{
+    "faq_title": "Questions Fréquemment Posées",
+    "faq_description": "Trouvez des réponses aux questions courantes sur notre Générateur de Musique AI",
+    "question_1": "Quels types de prompts fonctionnent le mieux avec le Générateur de Musique AI?",
+    "answer_1": "Les prompts clairs et spécifiques fonctionnent le mieux. Un bon éclairage et un fond neutre aideront notre IA à créer les meilleurs résultats. Évitez les prompts trop généraux ou ambigus.",
+    "question_2": "Combien de temps faut-il pour générer une musique AI?",
+    "answer_2": "La plupart des générations se terminent en seulement 2 à 5 minutes, selon la charge du serveur et la complexité du prompt. Les utilisateurs Pro reçoivent un traitement prioritaire pour des résultats encore plus rapides.",
+    "question_3": "Puis-je utiliser le générateur de musique AI gratuitement?",
+    "answer_3": "Oui! Notre générateur de musique AI offre 3 utilisations gratuites par jour sans nécessiter de connexion. Vous pouvez créer vos propres musiques et les télécharger gratuitement. Pour des fonctionnalités supplémentaires et des limites d'utilisation plus élevées, mettez à jour votre plan.",
+    "question_4": "Quels styles de musique puis-je générer?",
+    "answer_4": "Nous offrons une large gamme de styles, y compris des genres populaires comme Classique, Jazz, Rock, Pop, Électronique et Hip-Hop. Au-delà de ces préréglages, vous pouvez également utiliser notre Générateur de Musique AI basé sur le texte pour générer des musiques basées sur vos descriptions textuelles.",
+    "question_5": "Comment le Générateur de Musique AI gère-t-il la confidentialité des utilisateurs?",
+    "answer_5": "Nous priorisons votre confidentialité. Les prompts sont utilisés uniquement pour générer vos musiques et sont généralement supprimés après 24 heures. Nous ne stockons ni ne conservons jamais vos prompts téléchargés sur nos serveurs.",
+    "question_6": "Puis-je utiliser les musiques générées commercialement?",
+    "answer_6": "Oui, vous avez tous les droits commerciaux pour utiliser la musique créée avec notre outil.",
+    "more_questions": "Vous avez d'autres questions?",
+    "contact_support": "Contacter le Support"
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Image To Prompt",
+    "description": "Boost Your Creative Workflow with Image To Prompt — Generate creative and precise text-to-image prompts for Stable Diffusion, Midjourney, and Custom — all powered by AI, no manual descriptions needed.",
+    "func_image_label": "1. UPLOAD AN IMAGE OR PHOTO (MAX 4MB)",
+    "func_image_label1": "1. UPLOAD AN IMAGE OR PHOTO (MAX 4MB)",
+    "func_model_label": "2. Model",
+    "func_model_list": [
+        {
+            "label": "Basic Model",
+            "type": "0"
+        },
+        {
+            "label": "Advanced Model",
+            "type": "1"
+        }
+    ],
+    "func_submit_label": "Image to prompt generate",
+    "public_label": "I agree to publicly display this content on image describer.",
+    "credits_label": "It will cost credits: 3",
+    "credits_buy_tips1": "Your credits have been fully used. To avoid service interruption ",
+    "credits_buy_tips2": "recharge now.",
+    "credits_buy_tips3": "You've reached your usage limit. Upgrade to a higher plan to keep using our services without interruption.",
+    "credits_buy_btn_label1": "Upgrade Now",
+    "credits_buy_btn_label2": "No, cancel",
+    "subscrible_tips1": "Subscribe for an Ad-Free Experience, Use Advanced Models, unlimited conversations, large image uploads, Boost Your Productivity, and Step into the AI Era!",
+    "result_label": "Image Prompts Result",
+    "use_title": "How to Use Image to Prompt",
+    "use_description": "Using advanced AI technology, transform your uploaded images into precise text-to-image prompts.",
+    "use_step1": "Select or paste an image",
+    "use_step1_des1": "Start by",
+    "use_step1_des2": "selecting an imagey",
+    "use_step1_des3": "from your device or",
+    "use_step1_des4": "pasting one directly",
+    "use_step1_des5": ". Choose an AI model, and this image will serve as the basis for generating creative and accurate prompts.",
+    "use_step2": "Click the Image to prompt generate",
+    "use_step2_des1": "Click the",
+    "use_step2_des2": "Image to Prompt Generate",
+    "use_step2_des3": "button, and this AI tool will automatically analyze your image to",
+    "use_step2_des4": "generate prompts",
+    "use_step2_des5": "for Stable Diffusion, MidJourney, and Custom.",
+    "use_step3": "Copy Generated Image Prompts",
+    "use_step3_des1": "Copy the generated Stable Diffusion, MidJourney, and Custom prompts into your text-to-image tool to create your artwork.",
+    "case_title": "Explore How AI Transforms Your Image-to-Prompt Efficiency",
+    "case1_title": "Anime Character Prompt Generation",
+    "case1_des": "Upload an image of an anime character, and our AI will analyze its unique elements to generate precise and creative prompts. Perfect for artists and enthusiasts looking to recreate or get inspired by their favorite anime designs.",
+    "case2_title": "Creative Fantasy Art Image Prompt Generation",
+    "case2_des": " Simply upload the art image, and let our AI dissect its creative essence. No manual descriptions needed—our tool will generate unique and precise prompts that capture the style, mood, and intricate details of the artwork. Transform your inspiration into reality with image prompts.",
+    "case3_title": "Complex Image Prompt Generation",
+    "case3_des": "Struggling to describe a highly detailed or complex image? Simplify complex image prompts with our AI, which provides you with comprehensive and detailed prompts, making it easier to recreate or use as a reference.",
+    "meta": {
+        "title": "Image to Prompt - Free Image to Text Prompt Generator & Ai Generator Song",
+        "description": "Image to Prompt is a powerful tool that uses advanced AI technology to transform your uploaded images into precise text-to-image prompts for platforms like Stable Diffusion and Midjourney. Try it now!"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "AI 음악 생성기",
+  "subtitle": "당신의 아이디어를 음악으로 변환하세요",
+  "description": "Suno 기술을 활용한 AI 음악 생성기로 독창적인 음악 작품을 만들어보세요.",
+  "buttons": {
+    "create": "지금 생성하기",
+    "tutorial": "튜토리얼 보기"
+  },
+  "imageDescription": "음악 생성 인터페이스"
+}

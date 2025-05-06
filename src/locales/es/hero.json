@@ -1,0 +1,10 @@
+{
+  "title": "Generador de Música con IA",
+  "subtitle": "Transforma tus ideas en música personalizada",
+  "description": "Crea composiciones musicales únicas con nuestro generador de música impulsado por IA y tecnología Suno.",
+  "buttons": {
+    "create": "Generar ahora",
+    "tutorial": "Ver tutorial"
+  },
+  "imageDescription": "Interfaz de creación musical"
+}

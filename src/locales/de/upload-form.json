@@ -1,0 +1,21 @@
+{
+    "credits_label": "Verfügbare Credits：3",
+    "credits_buy_tips1": "Sie haben nicht genug Credits.",
+    "credits_buy_tips2": "Mehr Credits kaufen",
+    "credits_buy_tips3": "Möchten Sie wirklich mehr Credits kaufen?",
+    "credits_buy_btn_label1": "Ja, ich möchte kaufen",
+    "credits_buy_btn_label2": "Nein, abbrechen",
+    "subscrible_tips1": "Melden Sie sich an, um alle Funktionen freizuschalten und kostenlose Credits zu erhalten!",
+    "select_style": "Stil wählen",
+    "select_style_description": "Wählen Sie Ihren bevorzugten Figurenstil aus unserer Sammlung",
+    "style_funko": "Funko-Stil",
+    "style_action": "Actionfigur",
+    "style_anime": "Anime-Figur",
+    "style_lego": "Lego-Stil",
+    "style_clay": "Knetfigur",
+    "generating_message": "Ihre Figur wird generiert...",
+    "generation_complete": "Generierung erfolgreich abgeschlossen",
+    "generation_error": "Fehler:",
+    "download_failed_title": "Download fehlgeschlagen",
+    "download_failed_message": "Bild-Download fehlgeschlagen, bitte versuchen Sie es erneut"
+}

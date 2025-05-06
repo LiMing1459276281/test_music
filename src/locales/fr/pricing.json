@@ -1,0 +1,149 @@
+{
+    "title": "Tarifs du Générateur de Figurines AI",
+    "subtitle": "Choisissez un forfait pour acheter des crédits. Libérez votre créativité avec le Générateur de Figurines AI.",
+    "pricing_description": "AI音楽生成はクレジット制を採用しており、各生成には3クレジットが必要です。",
+    "ko_fi_tips1": "☕ Conseil ko-fi : N'oubliez pas votre nom d'utilisateur du Générateur de Figurines AI dans le message de paiement ko-fi ! 😉 ( Vous l'avez oublié ? ",
+    "payment_tips1": "💳 Conseil de paiement : Si vous rencontrez des problèmes lors du paiement, n'hésitez pas à nous contacter ! 😉 ( Des questions ? ",
+    "ko_fi_tips2": "contactez-nous",
+    "news": "Nouvelles excitantes ! Achetez des crédits pour le Générateur de Figurines AI maintenant et profitez d'une réduction de 50 % !",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "Paiement unique",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants": [
+                {
+                    "creditsAmount": "70 crédits",
+                    "unitPrice": "0,07 € / crédit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150 crédits",
+                    "unitPrice": "0,06 € / crédit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400 crédits",
+                    "unitPrice": "0,05 € / crédit",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650 crédits",
+                    "unitPrice": "0,04 € / crédit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "Sans abonnement",
+            "buy_lable": "Acheter le forfait",
+            "description": [
+                "Nombre illimité de conversations",
+                "Vitesse de génération rapide",
+                "Alimenté par des modèles avancés",
+                "Sans publicité",
+                "Support client prioritaire"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "Abonnement mensuel",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /mois",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "90 crédits",
+                    "unitPrice": "0,06 € / crédit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200 crédits",
+                    "unitPrice": "0,05 € / crédit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750 crédits",
+                    "unitPrice": "0,04 € / crédit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500 crédits",
+                    "unitPrice": "0,03 € / crédit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "Annulation possible à tout moment.",
+            "buy_lable": "Acheter le forfait",
+            "description": [
+                "Nombre illimité de conversations",
+                "Vitesse de génération rapide",
+                "Alimenté par des modèles avancés",
+                "Sans publicité",
+                "Support client prioritaire"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "Abonnement annuel",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /mois",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "600 crédits",
+                    "unitPrice": "0,05 € / crédit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250 crédits",
+                    "unitPrice": "0,04 € / crédit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000 crédits",
+                    "unitPrice": "0,03 € / crédit",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000 crédits",
+                    "unitPrice": "0,02 € / crédit",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "Annulation possible à tout moment.",
+            "buy_lable": "Acheter le forfait",
+            "description": [
+                "Accès API haute priorité",
+                "Mises à jour et améliorations régulières",
+                "Nombre illimité de conversations",
+                "Vitesse de génération rapide",
+                "Alimenté par des modèles avancés",
+                "Sans publicité",
+                "Support prioritaire (Réponse sous 24 heures)"
+            ]
+        }
+    ],
+    "meta": {
+        "title": "Tarifs - Générateur de Figurines AI",
+        "description": "Informations sur notre système de facturation et réponses aux questions fréquentes sur les paiements, les abonnements, etc."
+    }
+}

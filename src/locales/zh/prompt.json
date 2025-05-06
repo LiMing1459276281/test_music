@@ -1,0 +1,54 @@
+{
+  "title": "图像生成提示词",
+  "description": "使用“图像生成提示词”功能提升您的创作效率 -  这项功能由 AI 驱动，可以为 Stable Diffusion、Midjourney 和自定义模型生成富有创意且精准的“文本到图像”提示词，无需手动描述。",
+  "func_image_label": "1. 上传图像或照片（最大 4MB）",
+  "func_image_label1": "1. 上传图像或照片（最大 4MB）",
+  "func_model_label": "2. 模型",
+  "func_model_list": [
+    {
+      "label": "基本模型",
+      "type": "0"
+    },
+    {
+      "label": "高级模型",
+      "type": "1"
+    }
+  ],
+  "func_submit_label": "生成图像提示词",
+  "public_label": "我同意在图像描述生成器上公开展示此内容。",
+  "credits_label": "这将消耗积分：3",
+  "credits_buy_tips1": "您的积分已用完。为避免服务中断，请",
+  "credits_buy_tips2": "立即充值。",
+  "credits_buy_tips3": "您已达到使用限制。请升级到更高级的套餐以继续不间断地使用我们的服务。",
+  "credits_buy_btn_label1": "立即升级",
+  "credits_buy_btn_label2": "不，取消",
+  "subscrible_tips1": "订阅即可享受无广告体验、使用高级模型、无限次对话、大图像上传、提高工作效率以及进入 AI 时代！",
+  "result_label": "图像提示词结果",
+  "use_title": "如何使用“图像生成提示词”功能",
+  "use_description": "使用先进的 AI 技术，将您上传的图像转换为精准的“文本到图像”提示词。",
+  "use_step1": "选择或粘贴图像",
+  "use_step1_des1": "首先，",
+  "use_step1_des2": "选择图像",
+  "use_step1_des3": "或从您的设备中",
+  "use_step1_des4": "直接粘贴",
+  "use_step1_des5": "。选择 AI 模型后，此图像将作为生成有创意且准确的提示词的基础。",
+  "use_step2": "点击“生成图像提示词”",
+  "use_step2_des1": "点击“",
+  "use_step2_des2": "生成图像提示词”按钮，此 AI 工具会自动分析您的图像并",
+  "use_step2_des3": "生成提示词",
+  "use_step2_des4": "。",
+  "use_step2_des5": "支持 Stable Diffusion、Midjourney 和通用提示词。",
+  "use_step3": "复制生成的图像提示词",
+  "use_step3_des1": "将生成的 Stable Diffusion、Midjourney 和通用提示词复制到您的“文本到图像”工具中，以创建您的作品。",
+  "case_title": "探索 AI 如何提升您的“图像到提示词”转换效率",
+  "case1_title": "动漫角色提示词生成",
+  "case1_des": "上传动漫角色图像后，我们的 AI 会分析其独特元素，以生成精准且富有创意的提示词。 非常适合希望重新创建或从他们喜爱的动漫设计中获取灵感的艺术家和爱好者。",
+  "case2_title": "创意幻想艺术图像提示词生成",
+  "case2_des": "只需上传艺术图像，即可让我们的 AI 分析其创作精髓。 无需手动描述 - 我们的工具将生成独特且精准的提示词，以捕捉作品的风格、氛围和复杂细节。 使用图像提示词将您的灵感变为现实。",
+  "case3_title": "复杂图像提示词生成",
+  "case3_des": "还在为描述高度详细或复杂的图像而苦恼吗？ 使用我们的 AI 简化复杂图像提示词的生成。它可以为您提供全面而详细的提示词，从而更轻松地进行重新创建或用作参考。",
+    "meta": {
+    "title": "Image to Prompt - 免费的图像到文本提示生成器 & Ai Generator Song",
+    "description": "Image to Prompt 是一款功能强大的工具，可以利用先进的 AI 技术将您上传的图像转换为适用于 Stable Diffusion 和 Midjourney 等平台的精准的文生图提示。立即试用！"
+  }
+}

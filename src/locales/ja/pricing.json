@@ -1,0 +1,149 @@
+{
+    "title": "AIフィギュアジェネレーターの価格",
+    "subtitle": "クレジットを購入するプランを選択し、AIフィギュアジェネレーターで創造性を解き放ちましょう。",
+    "pricing_description": "AI音楽生成はクレジット制を採用しており、各生成には3クレジットが必要です。",
+    "ko_fi_tips1": "☕ ko-fiチップ：ko-fiの支払いメッセージにAIフィギュアジェネレーターのユーザー名を入力することを忘れないでください！ 😉 ( 忘れましたか？",
+    "payment_tips1": "💳 支払いチップ：支払いプロセス中に問題が発生した場合は、お気軽にお問い合わせください！😉  ( 質問がありますか？",
+    "ko_fi_tips2": "お問い合わせ",
+    "news": "エキサイティングなニュース！今すぐAIフィギュアジェネレーターのクレジットを購入して、50％割引をお楽しみください！",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "1回払い",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants": [
+                {
+                    "creditsAmount": "70クレジット",
+                    "unitPrice": "1クレジットあたり0.07€",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150クレジット",
+                    "unitPrice": "1クレジットあたり0.06€",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400クレジット",
+                    "unitPrice": "1クレジットあたり0.05€",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650クレジット",
+                    "unitPrice": "1クレジットあたり0.04€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "繰り返しなし",
+            "buy_lable": "プランを購入する",
+            "description": [
+                "無制限の会話数",
+                "高速生成速度",
+                "高度なモデルを搭載",
+                "広告なし",
+                "優先顧客サポート"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "月額プラン",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /月",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "90クレジット",
+                    "unitPrice": "1クレジットあたり0.06€",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200クレジット",
+                    "unitPrice": "1クレジットあたり0.05€",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750クレジット",
+                    "unitPrice": "1クレジットあたり0.04€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500クレジット",
+                    "unitPrice": "1クレジットあたり0.03€",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "いつでもキャンセルできます。",
+            "buy_lable": "プランを購入する",
+            "description": [
+                "無制限の会話数",
+                "高速生成速度",
+                "高度なモデルを搭載",
+                "広告なし",
+                "優先顧客サポート"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "年間プラン",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /月",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "600クレジット",
+                    "unitPrice": "1クレジットあたり0.05€",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250クレジット",
+                    "unitPrice": "1クレジットあたり0.04€",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000クレジット",
+                    "unitPrice": "1クレジットあたり0.03€",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000クレジット",
+                    "unitPrice": "1クレジットあたり0.02€",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "いつでもキャンセルできます。",
+            "buy_lable": "プランを購入する",
+            "description": [
+                "高優先度APIアクセス",
+                "定期的な更新と改善",
+                "無制限の会話数",
+                "高速生成速度",
+                "高度なモデルを搭載",
+                "広告なし",
+                "優先サポート（24時間以内の応答）"
+            ]
+        }
+    ],
+    "meta": {
+        "title": "AIフィギュアジェネレーター 料金プラン",
+        "description": "請求システムに関する情報、支払い、サブスクリプションなどに関するよくある質問への回答はこちらをご覧ください。"
+    }
+}

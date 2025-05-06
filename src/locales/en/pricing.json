@@ -1,0 +1,149 @@
+{
+    "title": "Ai Generator Song Pricing",
+    "subtitle": "Choose a plan to buy credits, Unleash your creativity with Ai Generator Song.",
+    "pricing_description": "Ai Generator Song utilizes a credit-based system, with each image requiring 3 credit.",
+    "ko_fi_tips1": "☕ ko-fi Tip: Don't forget your Ai Generator Song username in the ko-fi payment message! 😉 ( Forgot? ",
+    "payment_tips1": "💳 Payment Tip: If you encounter any issues during the payment process, feel free to reach out to us! 😉  ( Questions? ",
+    "ko_fi_tips2": "contact us",
+    "news": "Exciting news! Purchase credits for Ai Generator Song now and enjoy a 50% discount!",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "One Time Payment",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants":[
+                {
+                    "creditsAmount": "70 credits",
+                    "unitPrice": "0.07 / credit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150 credits",
+                    "unitPrice": "0.06 / credit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400 credits",
+                    "unitPrice": "0.05 / credit",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650 credits",
+                    "unitPrice": "0.04 / credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "No recurring",
+            "buy_lable": "Buy plan",
+            "description": [
+                "Unlimited number of conversations",
+                "Fast Generation Speed",
+                "Powered by advanced models",
+                "Ad-Free",
+                "Priority Customer Support"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "Monthly Subscription",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /month",
+            "defaultVariant": 0,
+            "variants":[
+                {
+                    "creditsAmount": "90 credits",
+                    "unitPrice": "0.06 / credit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200 credits",
+                    "unitPrice": "0.05 / credit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750 credits",
+                    "unitPrice": "0.04 / credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500 credits",
+                    "unitPrice": "0.03 / credit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "Cancel at any time.",
+            "buy_lable": "Buy plan",
+            "description": [
+                "Unlimited number of conversations",
+                "Fast Generation Speed",
+                "Powered by advanced models",
+                "Ad-Free",
+                "Priority Customer Support"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "Yearly Subscription",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /month",
+            "defaultVariant": 0,
+            "variants":[
+                {
+                    "creditsAmount": "600 credits",
+                    "unitPrice": "0.05 / credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250 credits",
+                    "unitPrice": "0.04 / credit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000 credits",
+                    "unitPrice": "0.03 / credit",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000 credits",
+                    "unitPrice": "0.02 / credit",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "Cancel at any time.",
+            "buy_lable": "Buy plan",
+            "description": [
+                "High-Priority API Access",
+                "Regular updates and improvements",
+                "Unlimited number of conversations",
+                "Fast Generation Speed",
+                "Powered by advanced models",
+                "Ad-Free",
+                "Priority Support (Response within 24 hours)"
+            ]
+        }
+    ],
+    "meta": {
+        "title":"Ai Generator Song Pricing",
+        "description":"about our billing system, and answers frequently asked questions about payments, subscriptions, and more."
+    }
+}

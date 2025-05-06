@@ -1,0 +1,150 @@
+{
+    "title": "AI-Figurengenerator Preise",
+    "subtitle": "Wählen Sie ein Paket, um Credits zu kaufen. Entfesseln Sie Ihre Kreativität mit dem AI-Figurengenerator.",
+    "pricing_description": "AI音乐生成采用积分制，每次生成需要3个积分。",
+    "ko_fi_tips1": "☕ ko-fi Tipp: Vergessen Sie nicht Ihren AI-Figurengenerator-Benutzernamen in der ko-fi-Zahlungsnachricht! 😉 ( Vergessen? ",
+    "payment_tips1": "💳 Zahlungstipp: Sollten Sie während des Zahlungsvorgangs auf Probleme stoßen, können Sie uns gerne kontaktieren! 😉  ( Fragen? ",
+    "ko_fi_tips2": "kontaktieren Sie uns",
+    "news": "Aufregende Neuigkeiten! Kaufen Sie jetzt Credits für den AI-Figurengenerator und profitieren Sie von 50% Rabatt!",
+    "prices": [
+        {
+            "type": "1",
+            "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX",
+            "name": "Einmalzahlung",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": "",
+            "defaultVariant": 1,
+            "variants": [
+                {
+                    "creditsAmount": "70 Credits",
+                    "unitPrice": "0,07 € / Credit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkYhE2WvTscvLq7nunLLVM"
+                },
+                {
+                    "creditsAmount": "150 Credits",
+                    "unitPrice": "0,06 € / Credit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkZ4E2WvTscvLqslXa7NBX"
+                },
+                {
+                    "creditsAmount": "400 Credits",
+                    "unitPrice": "0,05 € / Credit",
+                    "totalPrice": 19.99,
+                    "variantId": "price_1RIkZNE2WvTscvLq6EIHrX7v"
+                },
+                {
+                    "creditsAmount": "650 Credits",
+                    "unitPrice": "0,04 € / Credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkZVE2WvTscvLqBEmdX4VO"
+                }
+            ],
+            "remark": "Keine wiederkehrenden Zahlungen",
+            "buy_lable": "Paket kaufen",
+            "description": [
+                "Unbegrenzte Anzahl von Konversationen",
+                "Schnelle Generierungsgeschwindigkeit",
+                "Unterstützt von fortschrittlichen Modellen",
+                "Werbefrei",
+                "Prioritärer Kundensupport"
+            ]
+        },
+        {
+            "type": "2",
+            "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v",
+            "name": "Monatliches Abonnement",
+            "price": 9.99,
+            "unit": "US$",
+            "duration": " /Monat",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "90 Credits",
+                    "unitPrice": "0,06 € / Credit",
+                    "totalPrice": 4.99,
+                    "variantId": "price_1RIkbWE2WvTscvLqqL86O8ZK"
+                },
+                {
+                    "creditsAmount": "200 Credits",
+                    "unitPrice": "0,05 € / Credit",
+                    "totalPrice": 9.99,
+                    "variantId": "price_1RIkbpE2WvTscvLqcdg1hi7v"
+                },
+                {
+                    "creditsAmount": "750 Credits",
+                    "unitPrice": "0,04 € / Credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkc7E2WvTscvLqjTtKiQi0"
+                },
+                {
+                    "creditsAmount": "1500 Credits",
+                    "unitPrice": "0,03 € / Credit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkcLE2WvTscvLq5sUina0p"
+                }
+            ],
+            "remark": "Jederzeit kündbar.",
+            "buy_lable": "Paket kaufen",
+            "description": [
+                "Maximale Upload-Größe von 4 MB pro Bild",
+                "KI-Bild-zu-Prompt-Konvertierung",
+                "Schnelle Generierungsgeschwindigkeit",
+                "Unterstützt von fortschrittlichen Modellen",
+                "Werbefrei",
+                "Prioritärer Kundensupport"
+            ]
+        },
+        {
+            "type": "3",
+            "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n",
+            "name": "Jährliches Abonnement",
+            "price": 49.99,
+            "unit": "US$",
+            "duration": " /Monat",
+            "defaultVariant": 0,
+            "variants": [
+                {
+                    "creditsAmount": "600 Credits",
+                    "unitPrice": "0,05 € / Credit",
+                    "totalPrice": 29.99,
+                    "variantId": "price_1RIkdpE2WvTscvLqxcZH2Iml"
+                },
+                {
+                    "creditsAmount": "1250 Credits",
+                    "unitPrice": "0,04 € / Credit",
+                    "totalPrice": 49.99,
+                    "variantId": "price_1RIkeEE2WvTscvLqSgpgIJ3n"
+                },
+                {
+                    "creditsAmount": "3000 Credits",
+                    "unitPrice": "0,03 € / Credit",
+                    "totalPrice": 99.99,
+                    "variantId": "price_1RIkeVE2WvTscvLqxmNlS3nA"
+                },
+                {
+                    "creditsAmount": "10000 Credits",
+                    "unitPrice": "0,02 € / Credit",
+                    "totalPrice": 199.99,
+                    "variantId": "price_1RIkejE2WvTscvLqARcwsfPz"
+                }
+            ],
+            "remark": "Jederzeit kündbar.",
+            "buy_lable": "Paket kaufen",
+            "description": [
+                "Hochprioritärer API-Zugang",
+                "Regelmäßige Updates und Verbesserungen",
+                "Unbegrenzte Anzahl von Konversationen",
+                "Schnelle Generierungsgeschwindigkeit",
+                "Unterstützt von fortschrittlichen Modellen",
+                "Werbefrei",
+                "Prioritärer Support (Antwort innerhalb von 24 Stunden)"
+            ]
+        }
+    ],
+    "meta": {
+        "title": "Preise - AI-Figurengenerator",
+        "description": "Informationen zu unserem Abrechnungssystem und Antworten auf häufig gestellte Fragen zu Zahlungen, Abonnements und mehr."
+    }
+}

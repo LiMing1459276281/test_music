@@ -1,0 +1,18 @@
+{
+    "faq_title": "Häufig gestellte Fragen",
+    "faq_description": "Finden Sie Antworten auf häufig gestellte Fragen zu unserem AI Musikgenerator",
+    "question_1": "Welche Arten von Prompts funktionieren am besten mit dem AI Musikgenerator?",
+    "answer_1": "Klare und spezifische Prompts funktionieren am besten. Gute Beleuchtung und ein neutraler Hintergrund helfen unserer KI, die besten Ergebnisse zu erzielen. Vermeiden Sie zu allgemeine oder mehrdeutige Prompts.",
+    "question_2": "Wie lange dauert es, Musik mit AI zu generieren?",
+    "answer_2": "Die meisten Generationen werden in nur 2-5 Minuten abgeschlossen, abhängig von der Serverauslastung und der Komplexität des Prompts. Pro-Benutzer erhalten eine bevorzugte Verarbeitung für noch schnellere Ergebnisse.",
+    "question_3": "Kann ich den AI Musikgenerator kostenlos nutzen?",
+    "answer_3": "Kostenlose Benutzer können bei der Registrierung einmal generieren und müssen sich anmelden. Für zusätzliche Funktionen und höhere Nutzungslimits aktualisieren Sie Ihren Plan.",
+    "question_4": "Welche Musikstile kann ich generieren?",
+    "answer_4": "Wir bieten eine breite Palette von Stilen, einschließlich beliebter Genres wie Klassik, Jazz, Rock, Pop, Elektronik und Hip-Hop. Darüber hinaus können Sie unseren textbasierten AI Musikgenerator verwenden, um Musik basierend auf Ihren Textbeschreibungen zu generieren.",
+    "question_5": "Wie behandelt der AI Musikgenerator die Privatsphäre der Benutzer?",
+    "answer_5": "Wir priorisieren Ihre Privatsphäre. Die Prompts werden nur zur Generierung Ihrer Musik verwendet und in der Regel nach 24 Stunden gelöscht. Wir speichern oder bewahren Ihre hochgeladenen Prompts niemals auf unseren Servern auf.",
+    "question_6": "Kann ich die generierte Musik kommerziell nutzen?",
+    "answer_6": "Ja, Sie haben alle kommerziellen Rechte, die mit unserem Tool erstellte Musik zu nutzen.",
+    "more_questions": "Haben Sie weitere Fragen?",
+    "contact_support": "Kontaktieren Sie den Support"
+}

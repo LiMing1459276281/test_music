@@ -1,0 +1,10 @@
+{
+  "title": "Générateur de Musique IA",
+  "subtitle": "Transformez vos idées en musique personnalisée",
+  "description": "Utilisez notre générateur de musique IA alimenté par l'API Suno pour créer des compositions musicales uniques.",
+  "buttons": {
+    "create": "Générer Maintenant",
+    "tutorial": "Voir le Tutoriel"
+  },
+  "imageDescription": "Interface de création musicale"
+}

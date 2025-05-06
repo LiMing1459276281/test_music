@@ -1,0 +1,10 @@
+{
+  "title": "KI-Musikgenerator",
+  "subtitle": "Verwandeln Sie Ihre Ideen in personalisierte Musik",
+  "description": "Erstellen Sie einzigartige musikalische Kompositionen mit unserem KI-gestützten Musikgenerator und Suno-Technologie.",
+  "buttons": {
+    "create": "Jetzt generieren",
+    "tutorial": "Tutorial ansehen"
+  },
+  "imageDescription": "Musikerstellungsoberfläche"
+}

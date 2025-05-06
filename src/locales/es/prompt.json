@@ -1,0 +1,54 @@
+{
+    "title": "Imagen a Prompt",
+    "description": "Impulsa tu flujo de trabajo creativo con Imagen a Prompt: genera prompts de texto a imagen creativos y precisos para Stable Diffusion, Midjourney y personalizados, todo con tecnología de IA, sin necesidad de descripciones manuales.",
+    "func_image_label": "1. SUBE UNA IMAGEN O FOTO (MÁX. 2 MB)",
+    "func_image_label1": "1. SUBE UNA IMAGEN O FOTO (MÁX. 4 MB)",
+    "func_model_label": "2. Modelo",
+    "func_model_list": [
+        {
+            "label": "Modelo Básico",
+            "type": "0"
+        },
+        {
+            "label": "Modelo Avanzado",
+            "type": "1"
+        }
+    ],
+    "func_submit_label": "Generar Imagen a Prompt",
+    "public_label": "Acepto mostrar públicamente este contenido en el generador de descripciones de imágenes.",
+    "credits_label": "Costará créditos: 3",
+    "credits_buy_tips1": "Tus créditos se han agotado. Para evitar la interrupción del servicio, ",
+    "credits_buy_tips2": "recarga ahora.",
+    "credits_buy_tips3": "Has alcanzado tu límite de uso. Cámbiate a un plan superior para seguir utilizando nuestros servicios sin interrupciones.",
+    "credits_buy_btn_label1": "Actualizar ahora",
+    "credits_buy_btn_label2": "No, cancelar",
+    "subscrible_tips1": "¡Suscríbete para disfrutar de una experiencia sin publicidad, utilizar Modelos Avanzados, conversaciones ilimitadas, cargas de imágenes grandes, aumentar tu productividad y entrar en la era de la IA!",
+    "result_label": "Resultado de Imagen a Prompt",
+    "use_title": "Cómo utilizar Imagen a Prompt",
+    "use_description": "Utiliza tecnología de IA avanzada para transformar tus imágenes cargadas en prompts de texto a imagen precisos.",
+    "use_step1": "Selecciona o pega una imagen",
+    "use_step1_des1": "Empieza por",
+    "use_step1_des2": "seleccionar una imagen",
+    "use_step1_des3": "de tu dispositivo o",
+    "use_step1_des4": "pegar una directamente",
+    "use_step1_des5": ". Elige un modelo de IA y esta imagen servirá como base para generar prompts creativos y precisos.",
+    "use_step2": "Haz clic en 'Generar Imagen a Prompt'",
+    "use_step2_des1": "Haz clic en el botón",
+    "use_step2_des2": "'Generar Imagen a Prompt'",
+    "use_step2_des3": "y esta herramienta de IA analizará automáticamente tu imagen para",
+    "use_step2_des4": "generar prompts",
+    "use_step2_des5": "para Stable Diffusion, MidJourney y personalizados.",
+    "use_step3": "Copia los prompts de imagen generados",
+    "use_step3_des1": "Copia los prompts generados de Stable Diffusion, MidJourney y personalizados en tu herramienta de texto a imagen para crear tu obra de arte.",
+    "case_title": "Explora cómo la IA transforma tu eficiencia de imagen a prompt",
+    "case1_title": "Generación de prompts de personajes de anime",
+    "case1_des": "Sube una imagen de un personaje de anime y nuestra IA analizará sus elementos únicos para generar prompts precisos y creativos. Perfecto para artistas y entusiastas que buscan recrear o inspirarse en sus diseños de anime favoritos.",
+    "case2_title": "Generación de prompts de imágenes de arte fantástico creativo",
+    "case2_des": "Simplemente sube la imagen artística y deja que nuestra IA diseccione su esencia creativa. No se necesitan descripciones manuales: nuestra herramienta generará prompts únicos y precisos que capturan el estilo, el ambiente y los detalles intrincados de la obra de arte. Transforma tu inspiración en realidad con prompts de imagen.",
+    "case3_title": "Generación de prompts de imágenes complejas",
+    "case3_des": "¿Tienes dificultades para describir una imagen muy detallada o compleja? Simplifica los prompts de imágenes complejas con nuestra IA, que te proporciona prompts completos y detallados, lo que facilita su recreación o uso como referencia.",
+    "meta": {
+        "title": "Image to Prompt - Generador de texto a partir de imágenes y descriptor de imágenes gratuito",
+        "description": "Image to Prompt es una potente herramienta que utiliza tecnología de IA avanzada para transformar tus imágenes cargadas en precisas indicaciones de texto a imagen para plataformas como Stable Diffusion y Midjourney. ¡Pruébalo ahora!"
+    }
+}

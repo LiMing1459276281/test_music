@@ -1,0 +1,18 @@
+{
+    "faq_title": "Frequently Asked Questions",
+    "faq_description": "Find answers to common questions about our AI Music Generator",
+    "question_1": "What types of prompts work best with AI Music Generator?",
+    "answer_1": "Clear and specific prompts work best. Good lighting and a neutral background will help our AI create the best results. Avoid overly general or ambiguous prompts.",
+    "question_2": "How long does it take to generate AI music?",
+    "answer_2": "Most generations complete in just 2-5 minutes, depending on server load and the complexity of the prompt. Pro users receive priority processing for even faster results.",
+    "question_3": "Can I use AI Music Generator for free?",
+    "answer_3": "Free users can generate once upon registration and need to log in. For additional features and higher usage limits, upgrade your plan.",
+    "question_4": "What styles of music can I generate?",
+    "answer_4": "We offer a wide range of styles, including popular genres like Classical, Jazz, Rock, Pop, Electronic, and Hip-Hop. Beyond these presets, you can also use our Text to Music AI Generator to generate music based on your text descriptions.",
+    "question_5": "How does AI Music Generator handle user privacy?",
+    "answer_5": "We prioritize your privacy. Prompts are used only to generate your music and are generally deleted after 24 hours. We never store or retain your uploaded prompts on our servers.",
+    "question_6": "Can I use the generated music commercially?",
+    "answer_6": "Yes, you have all commercial rights to use the music created with our tool.",
+    "more_questions": "Do you have more questions?",
+    "contact_support": "Contact Support"
+}

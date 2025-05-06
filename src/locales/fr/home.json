@@ -1,0 +1,209 @@
+{
+    "title": "Description d'image par l'IA",
+    "subtitle": "Interroger des photos, télécharger vos photos ou vos œuvres d'art et laissez l'IA révéler le contenu de l'image, les émotions qu'elle suscite, l'analyse des graphiques de données et le contexte de création. Que vous soyez artiste, designer, chercheur ou simplement curieux, ce « descripteur d'images » offre de nouvelles perspectives et une efficacité accrue à votre travail et à vos créations. Essayez-le dès maintenant !",
+    "note": "Comme il s'agit d'une version de test préliminaire, certaines fonctions peuvent ne pas être stables. Nous vous remercions de votre patience et de votre compréhension. Si vous rencontrez des problèmes ou si vous avez des suggestions, n'hésitez pas à nous contacter. Vos commentaires sont précieux et nous aideront à améliorer l'outil.",
+    "func_image_label": "1. TÉLÉCHARGER UNE IMAGE OU UNE PHOTO (MAX. 2 Mo)",
+    "func_image_label1": "1. TÉLÉCHARGER UNE IMAGE OU UNE PHOTO (MAX. 4 Mo)",
+    "func_model_label": "2. Modèle",
+
+    "func_model_list": [
+        {
+            "label": "Modèle de base",
+            "type": "0"
+        },
+        {
+            "label": "Modèle avancé",
+            "type": "1"
+        }
+    ],
+    "func_prompt_label": "3. POSER DES QUESTIONS (FACULTATIF)",
+    "func_prompt_placeholder": "Posez une question, par exemple : « Générer un tweet captivant pour cette photo »",
+    "func_text_label": "4. DÉCRIRE L'IMAGE OU LA PHOTO",
+    "func_text_placeholder": "Les résultats d'images ou de photos apparaîtront ici.",
+    "func_submit_label": "Décrire l'image",
+    "example_title": "Exemples d'utilisation de la description d'image",
+    "example_link_label": "Explorer tous les exemples",
+    "fqa": {
+        "title": "Foire aux questions",
+        "description": "Recherchez les questions fréquemment posées sur Ai Generator Song",
+        "list": [
+            {
+                "question": "Comment obtenir la description d'une image ?",
+                "answer": "Pour commencer, sélectionnez une image sur votre appareil ou collez-la directement. Vous pouvez éventuellement saisir vos questions dans le champ \"POSER DES QUESTIONS (FACULTATIF)\". Cliquez sur le bouton \"Générer la description\" et l'outil d'IA analysera automatiquement votre image pour générer une description."
+            },
+            {
+                "question": "Comment supprimer une image partagée publiquement dans la section Explorer ?",
+                "answer": "Vous pouvez ouvrir la section Explorer, localiser l'image que vous souhaitez supprimer, faire une capture d'écran de l'image et écrire un e-mail comprenant la période à laquelle l'image a été téléchargée, la capture d'écran et la raison de la suppression (facultatif). Envoyez cet e-mail à notre adresse officielle. Nous examinerons et traiterons votre demande dans les 24 heures."
+            },
+            {
+                "question": "Comment générer un prompt à partir d'une image ?",
+                "answer": "Vous pouvez générer des prompts Stable Diffusion et Midjourney directement à l'aide de notre outil [Image To Prompt]. Vous pouvez également télécharger une image sur l'outil [Ai Generator Song] et saisir \"Écrire un prompt en langage naturel Midjourney pour l'image suivante\" dans le champ de saisie [POSER DES QUESTIONS] pour obtenir un prompt pour cette image."
+            },
+            {
+                "question": "Comment protéger ma vie privée lors de l'utilisation d'Ai Generator Song ?",
+                "answer": "Cet outil de description d'images par IA donne la priorité à votre vie privée et n'enregistre aucune information personnelle sans votre consentement explicite. Votre site Web ne partagera vos interprétations d'images et votre contenu dans sa bibliothèque de cas qu'avec votre autorisation."
+            },
+            {
+                "question": "Comment l'outil de description d'images est-il mis en œuvre ?",
+                "answer": "L'outil de description d'images est mis en œuvre à l'aide de modèles linguistiques à grande échelle. Il reconnaît les éléments et leurs relations dans les images, en analysant la couleur, la forme et la texture pour révéler des significations cachées."
+            }
+        ],
+        "fqa_note_label": "Vous ne trouvez pas la réponse que vous cherchez ? Contactez notre ",
+        "fqa_link_label": "service client"
+    },
+    "donation_label": "Offrez-moi un café",
+    "donation_about": "Si vous appréciez mon outil, pensez à faire un petit don pour m'aider à maintenir le site Web.  J'apprécie vraiment tout soutien, même minime : considérez cela comme un café virtuel !",
+    "public_label": "J'accepte que ce contenu soit affiché publiquement sur le descripteur d'images.",
+    "usage": {
+        "usage_title": "Découvrez comment l'IA transforme l'efficacité du traitement de vos images",
+        "usage_subtitle1": "Donner une nouvelle vie aux vieilles photos et aux œuvres d'art",
+        "usage_description1": "Les vieilles photos de votre enfance et les œuvres d'art uniques sont souvent oubliées au fil du temps, et les histoires et les émotions qu'elles recèlent peuvent s'estomper.",
+        "usage_solution1": "Notre outil peut réinterpréter de manière créative et unique les vieilles photos et les œuvres d'art. En analysant en profondeur leurs contextes, leurs émotions et les histoires qu'elles racontent, nous pouvons donner une nouvelle vie à chaque image et vous aider à la voir et à l'apprécier d'une toute nouvelle manière.",
+        "usage_subtitle2": "Des informations claires à partir de graphiques complexes",
+        "usage_description2": "Dans les domaines de la recherche, de la finance et des affaires, l'analyse des données graphiques est une partie essentielle du travail. Mais parfois, les graphiques peuvent être complexes et difficiles à comprendre, surtout si leur source n'est pas claire.",
+        "usage_solution2": "Notre outil peut décomposer intelligemment les graphiques de recherche, financiers et commerciaux, vous aidant ainsi à comprendre rapidement ce qu'ils montrent. Il peut également retracer l'origine des graphiques, en fournissant des informations contextuelles détaillées et les sources des données, afin que vous sachiez toujours d'où proviennent les données.",
+        "usage_subtitle3": "Trouver le bon contenu, de manière plus intuitive",
+        "usage_description3": "Nous devons souvent trouver rapidement des images spécifiques pour le travail, comme des animaux, des plantes, de l'artisanat, des œuvres d'art, des personnes, des monuments et des bâtiments célèbres. Le faire manuellement prend du temps et est épuisant.",
+        "usage_solution3": "Grâce à notre technologie d'IA avancée, notre outil peut identifier avec précision les éléments clés des photos. Qu'il s'agisse d'animaux, de plantes, d'artisanat, d'art, de personnes, de monuments ou de bâtiments célèbres, notre outil peut les identifier avec précision et les transformer en texte consultable. La recherche d'informations est ainsi rapide, facile et vous fait gagner beaucoup de temps et d'efforts."
+    },
+    "customer": {
+        "title": "Ce que disent nos utilisateurs"
+    },
+    "feature": {
+        "title": "Explorez la puissance d'Ai Generator Song",
+        "description": "Découvrez un monde de possibilités cachées dans vos images. Générez des descriptions, extrayez des données, traduisez du texte et bien plus encore. Ai Generator Song vous permet de :",
+        "feature_list": [
+            {
+                "title": "Décrire l'image",
+                "description": "Générer une description textuelle détaillée d'une image.",
+                "icon": "/assets/describer.svg"
+            },
+            {
+                "title": "Image vers invite",
+                "description": "Créer des invites adaptées aux générateurs d'images IA (par exemple, Stable Diffusion, Midjourney) à partir d'une image.",
+                "icon": "/assets/prompt.svg"
+            },
+            {
+                "title": "Fournir un résumé du contenu représenté dans cette image",
+                "description": "Offrir un aperçu concis des principaux éléments et thèmes de l'image.",
+                "icon": "/assets/summary.svg"
+            },
+            {
+                "title": "Extraire et lister tout le contenu ou les éléments trouvés dans cette image",
+                "description": "Identifier et lister tous les objets, caractéristiques et détails présents dans l'image.",
+                "icon": "/assets/extract.svg"
+            },
+            {
+                "title": "Créer un titre accrocheur et pertinent pour cette image",
+                "description": "Générer des titres potentiels pertinents et attrayants.",
+                "icon": "/assets/title.svg"
+            },
+            {
+                "title": "Traduire le texte de l'image en anglais",
+                "description": "Extraire et traduire tout texte présent dans l'image en anglais.",
+                "icon": "/assets/translate.svg"
+            },
+            {
+                "title": "Extraire les données du tableau dans cette image et les présenter dans un format structuré",
+                "description": "Interpréter et structurer les données contenues dans les tableaux des images.",
+                "icon": "/assets/table.svg"
+            },
+            {
+                "title": "Convertir le contenu de cette image en code exécutable",
+                "description": "Il s'agit d'une tâche complexe qui peut ne pas être possible pour toutes les images. Cela revient probablement à interpréter des extraits de code ou des mises en page visuelles et à générer le code correspondant.",
+                "icon": "/assets/code.svg"
+            },
+            {
+                "title": "Générer un tweet captivant pour cette photo",
+                "description": "Composer un tweet qui attire l'attention et qui est pertinent par rapport au contenu de l'image.",
+                "icon": "/assets/tweet.svg"
+            }
+        ]
+    },
+    "logs": {
+        "title": "Journal des modifications",
+        "description": "Nous maintenons le journal des modifications public pour vous montrer qu'Ai Generator Song est un produit bien mis à jour et entretenu. Parcourez la chronologie des mises à jour en consultant le journal des modifications ci-dessous."
+    },
+    "blog": {
+        "title": "Publications récentes",
+        "description": "Lisez nos dernières nouvelles et mises à jour concernant Ai Generator Song.",
+        "blog_link": "Tous les articles"
+    },
+    "meta": {
+        "title": "Ai Generator Song : Ai Generator Song gratuit, Demandez à la musique de générer votre musique préférée",
+        "description": "Utilisez l'IA pour générer de la musique et interpréter la musique de manière créative et unique. Explorez les mystères de la musique, inspirez la créativité et redéfinissez l'efficacité de la création musicale. Rejoignez-nous maintenant !"
+    },
+    "input": "Entrée",
+    "upload_photo_description": "Téléchargez votre photo pour la restyler et la modifier",
+    "output": "Sortie",
+    "output_description": "Voyez votre photo transformée avec la magie de la figurine d'action IA",
+    "customize_optional": "Personnaliser (Optionnel)",
+    "credits_label": "Crédits disponibles：3",
+    "credits_buy_tips1": "Vous n'avez pas assez de crédits.",
+    "credits_buy_tips2": "Acheter plus de crédits",
+    "credits_buy_tips3": "Êtes-vous sûr de vouloir acheter plus de crédits ?",
+    "credits_buy_btn_label1": "Oui, je veux acheter",
+    "credits_buy_btn_label2": "Non, annuler",
+    "subscrible_tips1": "Inscrivez-vous pour débloquer toutes les fonctionnalités et obtenir des crédits gratuits !",
+    "select_style": "Choisir le style",
+    "select_style_description": "Sélectionnez votre style de figurine préféré dans notre collection",
+    "style_funko": "Style Funko",
+    "style_action": "Figurine d'action",
+    "style_anime": "Figurine d'anime",
+    "style_lego": "Style Lego",
+    "style_clay": "Style pâte à modeler",
+    "generating_message": "Génération de votre figurine...",
+    "generation_complete": "Génération terminée avec succès",
+    "generation_error": "Erreur :",
+    "download_failed_title": "Échec du téléchargement",
+    "download_failed_message": "Échec du téléchargement de l'image, veuillez réessayer",
+    "aspectRatio":"Ratio d'aspect",
+    "generator": {
+    "title": "Générateur de Musique IA",
+    "form": {
+      "describe": {
+        "title": "Décrivez Votre Musique",
+        "description": "Décrivez la musique que vous souhaitez créer. Soyez précis sur l'ambiance, les instruments, le tempo, etc."
+      },
+      "style": {
+        "title": "Sélectionner le Style Musical",
+        "description": "Choisissez un genre musical qui correspond le mieux à votre sortie souhaitée"
+      },
+      "upload": {
+        "click": "Cliquez pour télécharger",
+        "paste": "ou collez une image",
+        "format": "PNG, JPG ou JPEG (Recommandé : 300 x 300px)"
+      }
+    },
+    "generator": {
+      "form": {
+        "title": "Titre de la Musique",
+        "title_placeholder": "Donnez un nom à votre création musicale"
+      }
+    },
+    "generation": {
+      "button": {
+        "generating": "Génération en cours...",
+        "generate": "Générer la Musique"
+      },
+      "player": {
+        "title": "Votre Musique Générée",
+        "description": "Écoutez votre musique générée par l'IA et téléchargez-la quand vous êtes satisfait",
+        "empty": {
+          "title": "Aucune Musique Générée",
+          "description": "Remplissez le formulaire à gauche et cliquez sur \"Générer la Musique\" pour créer votre musique IA personnalisée"
+        },
+        "generated": "Généré à partir de votre description"
+      }
+    },
+    "errors": {
+      "generation": {
+        "title": "Échec de la Génération",
+        "message": "Échec de la génération de musique. Veuillez réessayer."
+      },
+      "prompt": {
+        "empty": "Veuillez entrer une description"
+      }
+    }
+  }
+}
